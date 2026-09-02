@@ -38,13 +38,15 @@
   "bcceab9a81c1b7ba",
   "29501efc2f737044",
   "8d5ba7f74908aaf1",
-  "a7928e54b899c4c5"
+  "a7928e54b899c4c5",
+  "a8f90b9ff243af8d"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
   "p:dublin, ireland": "Дублин, Ирландия",
-  "p:santa cruz de tenerife, spain": "Санта-Крус-де-Тенерифе, Испания"
+  "p:santa cruz de tenerife, spain": "Санта-Крус-де-Тенерифе, Испания",
+  "p:london, united kingdom, england": "Лондон, Великобритания"
  },
- "last_post": 1788368413.642963,
+ "last_post": 1788369627.0930715,
  "seeded": true
 }
