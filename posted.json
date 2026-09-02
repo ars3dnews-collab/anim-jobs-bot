@@ -36,9 +36,13 @@
   "20608824baa7dc28",
   "3d8a5bf2001b78d4",
   "bcceab9a81c1b7ba",
-  "29501efc2f737044"
+  "29501efc2f737044",
+  "8d5ba7f74908aaf1"
  ],
- "glossary": {},
- "last_post": 0,
+ "glossary": {
+  "t:animator, 3d": "3D-аниматор",
+  "p:dublin, ireland": "Дублин, Ирландия"
+ },
+ "last_post": 1788367207.2435968,
  "seeded": true
 }
