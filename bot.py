@@ -545,11 +545,13 @@ def seed(state, jobs):
 
 
 def main():
-    if not (BOT_TOKEN and CHANNEL_ID):
-        raise SystemExit("нет BOT_TOKEN или CHANNEL_ID")
-
     force = os.environ.get("FORCE", "").lower() in ("1", "true", "yes")
     dry = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
+
+    # Холостой прогон полезен и без ключей: он показывает, что таблица
+    # читается и отбор работает, ещё до того как заведён канал.
+    if not dry and not (BOT_TOKEN and CHANNEL_ID):
+        raise SystemExit("нет BOT_TOKEN или CHANNEL_ID")
 
     state = load_state()
     log("Бот вакансий на связи. В памяти {} вакансий".format(
@@ -558,7 +560,9 @@ def main():
     log("Читаю таблицу...")
     jobs = fetch_sheet()
 
-    if not state.get("seeded"):
+    # Холостой прогон не должен ничего помечать виденным: иначе вакансии
+    # окажутся «уже опубликованными» ещё до того, как появился канал.
+    if not state.get("seeded") and not dry:
         seed(state, jobs)
 
     known = set(state["posted"])
@@ -568,9 +572,13 @@ def main():
     log("Новых к публикации: {}".format(len(fresh)))
 
     if dry:
-        for j in fresh[:10]:
-            log("  · [{} дн] {} — {} ({})".format(
-                j["age"], j["title"], j["studio"], j["country"]))
+        for j in fresh[:15]:
+            log("  · [{} дн] {} — {} · {} · {}".format(
+                j["age"], j["title"], j["studio"], j["country"], j["mode"]))
+        if GEMINI_KEY and fresh:
+            log("Пробный перевод первой вакансии:")
+            for line in build_post(fresh[0], translate(fresh[0], state)).split("\n"):
+                log("    " + line)
         return
 
     if not fresh:
