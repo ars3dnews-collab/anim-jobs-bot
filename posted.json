@@ -74,7 +74,8 @@
   "6e20aeb9c1701d4c",
   "f3081fe202052603",
   "36db8df341eef4d1",
-  "618d6056a11e6b5b"
+  "618d6056a11e6b5b",
+  "f00cc66e0a43e36d"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -109,8 +110,9 @@
   "p:los angeles, california, united states": "Лос-Анджелес, Калифорния, США",
   "p:barcelona, catalonia, spain": "Барселона, Каталония, Испания",
   "p:bromsgrove, united kingdom, england": "Бромсгроув, Англия, Великобритания",
-  "t:animation director": "Анимационный директор"
+  "t:animation director": "Анимационный директор",
+  "p:colombo, sri lanka": "Коломбо, Шри-Ланка"
  },
- "last_post": 1788453684.4157736,
+ "last_post": 1788454287.2653387,
  "seeded": true
 }
