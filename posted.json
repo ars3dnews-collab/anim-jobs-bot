@@ -80,7 +80,8 @@
   "ebc3353f79c2a908",
   "2e3e5aec57c9410d",
   "5b51c13381ca9203",
-  "8e9206f3cf203031"
+  "8e9206f3cf203031",
+  "9cc37304ab7e0e94"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -118,8 +119,9 @@
   "t:animation director": "Анимационный директор",
   "p:colombo, sri lanka": "Коломбо, Шри-Ланка",
   "p:spain": "Испания",
-  "p:australia": "Австралия"
+  "p:australia": "Австралия",
+  "p:auckland, new zealand": "Окленд, Новая Зеландия"
  },
- "last_post": 1788457304.5704842,
+ "last_post": 1788457912.726763,
  "seeded": true
 }
