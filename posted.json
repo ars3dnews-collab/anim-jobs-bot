@@ -45,7 +45,8 @@
   "ff10904b19914802",
   "90ec4eebdc4180b8",
   "4e96c699c39d2279",
-  "c196af994da350e1"
+  "c196af994da350e1",
+  "2f89c0dd9270a5a8"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -58,8 +59,9 @@
   "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
   "p:stockholm, uppland, sweden": "Стокгольм, Уппсала, Швеция",
-  "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия"
+  "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
+  "p:madrid, spain": "Мадрид, Испания"
  },
- "last_post": 1788426248.1289575,
+ "last_post": 1788436187.4082913,
  "seeded": true
 }
