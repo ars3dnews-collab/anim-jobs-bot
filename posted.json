@@ -50,7 +50,8 @@
   "2d19548c241c0bd1",
   "9691532704461ef5",
   "7a67560e28203ac4",
-  "285cc90e54496b38"
+  "285cc90e54496b38",
+  "b2cf47c9f4204d0a"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -66,10 +67,11 @@
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
   "p:madrid, spain": "Мадрид, Испания",
   "p:istanbul, türkiye": "Стамбул, Турция",
-  "t:technical animator": "технический аниматор",
+  "t:technical animator": "Технический аниматор",
   "p:edmonton, alberta, canada": "Эдмонтон, Альберта, Канада",
-  "p:kuala lumpur, malaysia": "Куала-Лумпур, Малайзия"
+  "p:kuala lumpur, malaysia": "Куала-Лумпур, Малайзия",
+  "p:burnaby, british columbia, canada": "Бёрнаби, Британская Колумбия, Канада"
  },
- "last_post": 1788438647.5651248,
+ "last_post": 1788439254.3534603,
  "seeded": true
 }
