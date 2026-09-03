@@ -55,7 +55,8 @@
   "97ba72a7144cab36",
   "3fdd94de6c9d72a6",
   "17542e29c64f92e6",
-  "6c980d494fcab3c6"
+  "6c980d494fcab3c6",
+  "e0d8c7180a6f16b2"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -76,8 +77,9 @@
   "p:kuala lumpur, malaysia": "Куала-Лумпур, Малайзия",
   "p:burnaby, british columbia, canada": "Бёрнаби, Британская Колумбия, Канада",
   "p:vancouver, british columbia, canada": "Ванкувер, Британская Колумбия, Канада",
-  "p:madison, wisconsin, united states": "Мэдисон, Висконсин, США"
+  "p:madison, wisconsin, united states": "Мэдисон, Висконсин, США",
+  "p:novato, california, united states": "Новато, Калифорния, США"
  },
- "last_post": 1788441671.8294027,
+ "last_post": 1788442278.0422878,
  "seeded": true
 }
