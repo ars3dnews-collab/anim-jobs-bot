@@ -69,7 +69,8 @@
   "763120b21d003fe7",
   "01fcf0a381c4b4b8",
   "397a9e38f602e2e9",
-  "831ff33fbc52c45a"
+  "831ff33fbc52c45a",
+  "6f1f65d872b424fd"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -100,8 +101,9 @@
   "p:warsaw, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша",
   "p:san francisco, california, united states": "Сан-Франциско, Калифорния, США",
   "p:toronto, ontario, canada": "Торонто, Онтарио, Канада",
-  "p:cergy, france": "Сержи, Франция"
+  "p:cergy, france": "Сержи, Франция",
+  "p:los angeles, california, united states": "Лос-Анджелес, Калифорния, США"
  },
- "last_post": 1788450526.7013268,
+ "last_post": 1788451134.032771,
  "seeded": true
 }
