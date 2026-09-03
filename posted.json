@@ -42,7 +42,8 @@
   "a8f90b9ff243af8d",
   "630000b68e13f5c6",
   "68876086bce86ea5",
-  "ff10904b19914802"
+  "ff10904b19914802",
+  "90ec4eebdc4180b8"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -51,8 +52,10 @@
   "p:london, united kingdom, england": "Лондон, Великобритания",
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "Синематик-аниматор",
-  "p:burbank, california, united states": "Бербанк, Калифорния, США"
+  "p:burbank, california, united states": "Бербанк, Калифорния, США",
+  "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
+  "p:montreal, québec, canada": "Монреаль, Квебек, Канада"
  },
- "last_post": 1788422568.603117,
+ "last_post": 1788423832.217401,
  "seeded": true
 }
