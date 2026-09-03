@@ -43,7 +43,8 @@
   "630000b68e13f5c6",
   "68876086bce86ea5",
   "ff10904b19914802",
-  "90ec4eebdc4180b8"
+  "90ec4eebdc4180b8",
+  "4e96c699c39d2279"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -54,8 +55,9 @@
   "t:cinematic animator, 3d": "Синематик-аниматор",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
   "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
-  "p:montreal, québec, canada": "Монреаль, Квебек, Канада"
+  "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
+  "p:stockholm, uppland, sweden": "Стокгольм, Уппсала, Швеция"
  },
- "last_post": 1788423832.217401,
+ "last_post": 1788425042.1732934,
  "seeded": true
 }
