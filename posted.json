@@ -60,7 +60,8 @@
   "5b472af44c0d244b",
   "8e375c4286046a08",
   "e5b532fe1c7113f2",
-  "320b099215cb3141"
+  "320b099215cb3141",
+  "c4cdcf2c65d0a53a"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -84,8 +85,9 @@
   "p:madison, wisconsin, united states": "Мэдисон, Висконсин, США",
   "p:novato, california, united states": "Новато, Калифорния, США",
   "p:pune, india": "Пуна, Индия",
-  "p:montevideo, uruguay": "Монтевидео, Уругвай"
+  "p:montevideo, uruguay": "Монтевидео, Уругвай",
+  "p:malang, indonesia": "Маланг, Индонезия"
  },
- "last_post": 1788444693.886386,
+ "last_post": 1788445360.7070425,
  "seeded": true
 }
