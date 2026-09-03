@@ -61,7 +61,8 @@
   "8e375c4286046a08",
   "e5b532fe1c7113f2",
   "320b099215cb3141",
-  "c4cdcf2c65d0a53a"
+  "c4cdcf2c65d0a53a",
+  "f31c25ee0fe1acfd"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -86,8 +87,9 @@
   "p:novato, california, united states": "Новато, Калифорния, США",
   "p:pune, india": "Пуна, Индия",
   "p:montevideo, uruguay": "Монтевидео, Уругвай",
-  "p:malang, indonesia": "Маланг, Индонезия"
+  "p:malang, indonesia": "Маланг, Индонезия",
+  "p:leamington spa, united kingdom, england": "Ройал-Лемингтон-Спа, Англия, Великобритания"
  },
- "last_post": 1788445360.7070425,
+ "last_post": 1788445965.7965496,
  "seeded": true
 }
