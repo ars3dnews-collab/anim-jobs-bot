@@ -581,40 +581,72 @@ def main():
                 log("    " + line)
         return
 
-    if not fresh:
-        log("Новых вакансий нет — до следующего запуска.")
-        return
-
-    gap = int(getattr(config, "POST_EVERY_MINUTES", 45)) * 60
-    limit = int(getattr(config, "MAX_POSTS_PER_RUN", 12))
+    # Запуск живёт долго и сам держит ритм. Расписание GitHub срабатывает
+    # раз в несколько часов, и если выходить сразу после публикации, канал
+    # молчит до следующего стука. Поэтому: опубликовали очередь — не
+    # выходим, а через RECHECK_MINUTES перечитываем таблицу, и так до
+    # конца отведённого времени или до ночи.
+    gap = int(getattr(config, "POST_EVERY_MINUTES", 20)) * 60
+    limit = int(getattr(config, "MAX_POSTS_PER_RUN", 40))
+    recheck = int(getattr(config, "RECHECK_MINUTES", 30)) * 60
+    deadline = time.time() + int(getattr(config, "LOOP_MINUTES", 300)) * 60
     posted = 0
 
-    for job in fresh[:limit]:
-        if not force:
-            if quiet_now():
-                log("Ночь — остальное подождёт до утра.")
-                break
-            waited = time.time() - float(state.get("last_post", 0))
-            if posted and waited < gap:
-                left = gap - waited
-                log("Следующий пост через {} мин".format(int(left // 60)))
-                slept = 0
-                while slept < left:
-                    time.sleep(min(30, left - slept))
-                    slept += 30
-                if quiet_now():
-                    log("Наступила ночь — остальное завтра.")
-                    break
-        try:
-            publish(job, state)
-        except Exception as e:
-            log("  ! не опубликовалось: {}".format(str(e)[:200]))
-            continue
+    def nap(seconds):
+        """Спать короткими кусками, чтобы запуск можно было отменить."""
+        end = time.time() + seconds
+        while time.time() < end:
+            time.sleep(min(30, max(1, end - time.time())))
 
-        state["posted"].append(job_id(job))
-        state["last_post"] = time.time()
-        save_state(state)
-        posted += 1
+    while True:
+        if not fresh:
+            log("Новых вакансий нет.")
+        for job in fresh:
+            if posted >= limit:
+                break
+            if not force:
+                if quiet_now():
+                    break
+                waited = time.time() - float(state.get("last_post", 0))
+                if waited < gap:
+                    left = gap - waited
+                    log("Следующий пост через {} мин".format(int(left // 60) + 1))
+                    nap(left)
+                    if quiet_now():
+                        break
+            try:
+                publish(job, state)
+            except Exception as e:
+                log("  ! не опубликовалось: {}".format(str(e)[:200]))
+                continue
+            state["posted"].append(job_id(job))
+            state["last_post"] = time.time()
+            save_state(state)
+            posted += 1
+
+        if force or posted >= limit or time.time() >= deadline:
+            break
+        if quiet_now():
+            log("Ночь — остальное утром.")
+            break
+        if time.time() + recheck >= deadline:
+            break
+
+        log("Проверю таблицу снова через {} мин".format(recheck // 60))
+        nap(recheck)
+        if quiet_now():
+            log("Наступила ночь — остальное утром.")
+            break
+        try:
+            jobs = fetch_sheet()
+        except Exception as e:
+            log("  ! таблица не прочиталась: {}".format(str(e)[:150]))
+            continue
+        known = set(state["posted"])
+        fresh = sorted([j for j in jobs if job_id(j) not in known],
+                       key=lambda j: j["age"])
+        if fresh:
+            log("Новых к публикации: {}".format(len(fresh)))
 
     log("Готово. Опубликовано за запуск: {}".format(posted))
 
