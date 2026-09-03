@@ -64,7 +64,8 @@
   "c4cdcf2c65d0a53a",
   "f31c25ee0fe1acfd",
   "f5f1b52c489f0651",
-  "6b32d4a9d233a54b"
+  "6b32d4a9d233a54b",
+  "4425c04816949f15"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -91,8 +92,9 @@
   "p:montevideo, uruguay": "Монтевидео, Уругвай",
   "p:malang, indonesia": "Маланг, Индонезия",
   "p:leamington spa, united kingdom, england": "Ройал-Лемингтон-Спа, Англия, Великобритания",
-  "p:prague, central bohemia, czech republic": "Прага, Среднечешский край, Чехия"
+  "p:prague, central bohemia, czech republic": "Прага, Среднечешский край, Чехия",
+  "p:warsaw, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша"
  },
- "last_post": 1788447291.7842803,
+ "last_post": 1788447934.012943,
  "seeded": true
 }
