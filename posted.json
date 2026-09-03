@@ -76,7 +76,8 @@
   "36db8df341eef4d1",
   "618d6056a11e6b5b",
   "f00cc66e0a43e36d",
-  "1af65ffbe0f998d8"
+  "1af65ffbe0f998d8",
+  "ebc3353f79c2a908"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -84,7 +85,7 @@
   "p:santa cruz de tenerife, spain": "Санта-Крус-де-Тенерифе, Испания",
   "p:london, united kingdom, england": "Лондон, Великобритания, Англия",
   "p:lima, peru": "Лима, Перу",
-  "t:cinematic animator, 3d": "Синематик-аниматор",
+  "t:cinematic animator, 3d": "3D-аниматор синематиков",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
   "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
@@ -112,8 +113,9 @@
   "p:barcelona, catalonia, spain": "Барселона, Каталония, Испания",
   "p:bromsgrove, united kingdom, england": "Бромсгроув, Англия, Великобритания",
   "t:animation director": "Анимационный директор",
-  "p:colombo, sri lanka": "Коломбо, Шри-Ланка"
+  "p:colombo, sri lanka": "Коломбо, Шри-Ланка",
+  "p:spain": "Испания"
  },
- "last_post": 1788454892.1896513,
+ "last_post": 1788455496.899767,
  "seeded": true
 }
