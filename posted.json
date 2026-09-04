@@ -84,13 +84,14 @@
   "9cc37304ab7e0e94",
   "08b68f24d71a29f8",
   "9a4cc693ac02c4fb",
-  "ce4025d533631464"
+  "ce4025d533631464",
+  "30cba4a7b73560f5"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
   "p:dublin, ireland": "Дублин, Ирландия",
   "p:santa cruz de tenerife, spain": "Санта-Крус-де-Тенерифе, Испания",
-  "p:london, united kingdom, england": "Лондон, Великобритания, Англия",
+  "p:london, united kingdom, england": "Лондон, Великобритания",
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "3D-аниматор синематиков",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
@@ -127,6 +128,6 @@
   "p:san mateo, california, united states": "Сан-Матео, Калифорния, США",
   "p:manchester, united kingdom, england": "Манчестер, Англия, Великобритания"
  },
- "last_post": 1788508031.6799357,
+ "last_post": 1788508693.8338199,
  "seeded": true
 }
