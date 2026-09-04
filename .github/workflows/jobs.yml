@@ -6,7 +6,7 @@ on:
     # времени прошлой публикации (POST_EVERY_MINUTES и ACTIVE_HOURS в
     # config.py). GitHub пропускает большинство срабатываний и заводит
     # задание раз в 1-3 часа — для проверки таблицы этого с запасом хватает.
-    - cron: "*/20 * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -30,7 +30,7 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 355
 
     steps:
       - uses: actions/checkout@v4
