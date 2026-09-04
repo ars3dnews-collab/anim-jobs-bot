@@ -106,7 +106,8 @@
   "0d1d9bf5985b00e0",
   "61db16ff59ce9d75",
   "e759c5a4447bf452",
-  "2e6be069d804c787"
+  "2e6be069d804c787",
+  "84d02903e23842dc"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -157,8 +158,9 @@
   "p:seoul, south korea": "Сеул, Южная Корея",
   "p:bellevue, washington, united states": "Белвью, Вашингтон, США",
   "p:munich, bavaria, germany": "Мюнхен, Бавария, Германия",
-  "p:orlando, florida, united states": "Орландо, Флорида, США"
+  "p:orlando, florida, united states": "Орландо, Флорида, США",
+  "p:calgary, alberta, canada": "Калгари, Альберта, Канада"
  },
- "last_post": 1788521720.3029788,
+ "last_post": 1788522329.0996,
  "seeded": true
 }
