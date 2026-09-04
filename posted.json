@@ -100,7 +100,8 @@
   "7471ac3754d863d9",
   "16e227a49c7c928c",
   "d6cc68c629d72027",
-  "2403b5cde16ee36e"
+  "2403b5cde16ee36e",
+  "e25a30480d3cab28"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -149,8 +150,9 @@
   "p:gateshead, united kingdom, england": "Гейтсхед, Англия, Великобритания",
   "p:kraków, poland": "Краков, Польша",
   "p:seoul, south korea": "Сеул, Южная Корея",
-  "p:bellevue, washington, united states": "Белвью, Вашингтон, США"
+  "p:bellevue, washington, united states": "Белвью, Вашингтон, США",
+  "p:munich, bavaria, germany": "Мюнхен, Бавария, Германия"
  },
- "last_post": 1788518087.3561132,
+ "last_post": 1788518690.3360372,
  "seeded": true
 }
