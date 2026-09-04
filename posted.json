@@ -110,7 +110,8 @@
   "84d02903e23842dc",
   "aa63f79deb9f119f",
   "cc7416de416df3ca",
-  "bac48a84e2ddcfa2"
+  "bac48a84e2ddcfa2",
+  "9ad68bef3c8fcc18"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -165,8 +166,9 @@
   "p:calgary, alberta, canada": "Калгари, Альберта, Канада",
   "t:animation supervisor": "Супервайзер анимации",
   "p:tokyo, japan": "Токио, Япония",
-  "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия"
+  "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия",
+  "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания"
  },
- "last_post": 1788538511.7825928,
+ "last_post": 1788538637.043362,
  "seeded": true
 }
