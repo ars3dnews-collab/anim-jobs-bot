@@ -92,7 +92,8 @@
   "64c313d81b891262",
   "cf9700dbd39afe58",
   "14817ab968de3a8e",
-  "10238f98742b0368"
+  "10238f98742b0368",
+  "a70d0cd1ed4123d8"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -134,8 +135,9 @@
   "p:auckland, new zealand": "Окленд, Новая Зеландия",
   "p:san mateo, california, united states": "Сан-Матео, Калифорния, США",
   "p:manchester, united kingdom, england": "Манчестер, Англия, Великобритания",
-  "p:horsham, united kingdom, england": "Хоршем, Англия, Великобритания"
+  "p:horsham, united kingdom, england": "Хоршем, Англия, Великобритания",
+  "p:melbourne, victoria, australia": "Мельбурн, Виктория, Австралия"
  },
- "last_post": 1788513137.1425464,
+ "last_post": 1788513749.8546736,
  "seeded": true
 }
