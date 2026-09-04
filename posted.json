@@ -94,7 +94,8 @@
   "14817ab968de3a8e",
   "10238f98742b0368",
   "a70d0cd1ed4123d8",
-  "bcd6160004addc51"
+  "bcd6160004addc51",
+  "f24fc1ec4181db5e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -138,8 +139,9 @@
   "p:manchester, united kingdom, england": "Манчестер, Англия, Великобритания",
   "p:horsham, united kingdom, england": "Хоршем, Англия, Великобритания",
   "p:melbourne, victoria, australia": "Мельбурн, Виктория, Австралия",
-  "p:lucknow, india": "Лакхнау, Индия"
+  "p:lucknow, india": "Лакхнау, Индия",
+  "p:mumbai, india": "Мумбаи, Индия"
  },
- "last_post": 1788514367.110966,
+ "last_post": 1788514975.933571,
  "seeded": true
 }
