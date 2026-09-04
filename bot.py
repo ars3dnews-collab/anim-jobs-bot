@@ -165,6 +165,7 @@ def fetch_sheet():
 
     col = config.COLUMNS
     today = dt.date.today()
+    min_date = dt.date.fromisoformat(getattr(config, "MIN_DATE", "2000-01-01"))
     out = []
     for raw in rows[1:]:
         def cell(name):
@@ -180,6 +181,8 @@ def fetch_sheet():
         when = parse_date(cell("date"))
         age = (today - when).days if when else 999
         if age > int(getattr(config, "MAX_AGE_DAYS", 45)):
+            continue
+        if when and when < min_date:
             continue
 
         out.append({
@@ -198,8 +201,7 @@ def fetch_sheet():
         })
 
     out.sort(key=lambda j: j["age"])
-    log("  подходящих вакансий не старше {} дней: {}".format(
-        config.MAX_AGE_DAYS, len(out)))
+    log("  подходящих вакансий с {}: {}".format(min_date, len(out)))
     return out
 
 
