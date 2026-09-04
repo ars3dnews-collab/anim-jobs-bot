@@ -98,7 +98,8 @@
   "f24fc1ec4181db5e",
   "e679c2e90f7ee664",
   "7471ac3754d863d9",
-  "16e227a49c7c928c"
+  "16e227a49c7c928c",
+  "d6cc68c629d72027"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -145,8 +146,9 @@
   "p:lucknow, india": "Лакхнау, Индия",
   "p:mumbai, india": "Мумбаи, Индия",
   "p:gateshead, united kingdom, england": "Гейтсхед, Англия, Великобритания",
-  "p:kraków, poland": "Краков, Польша"
+  "p:kraków, poland": "Краков, Польша",
+  "p:seoul, south korea": "Сеул, Южная Корея"
  },
- "last_post": 1788516826.0755863,
+ "last_post": 1788517464.3054056,
  "seeded": true
 }
