@@ -99,7 +99,8 @@
   "e679c2e90f7ee664",
   "7471ac3754d863d9",
   "16e227a49c7c928c",
-  "d6cc68c629d72027"
+  "d6cc68c629d72027",
+  "2403b5cde16ee36e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -147,8 +148,9 @@
   "p:mumbai, india": "Мумбаи, Индия",
   "p:gateshead, united kingdom, england": "Гейтсхед, Англия, Великобритания",
   "p:kraków, poland": "Краков, Польша",
-  "p:seoul, south korea": "Сеул, Южная Корея"
+  "p:seoul, south korea": "Сеул, Южная Корея",
+  "p:bellevue, washington, united states": "Белвью, Вашингтон, США"
  },
- "last_post": 1788517464.3054056,
+ "last_post": 1788518087.3561132,
  "seeded": true
 }
