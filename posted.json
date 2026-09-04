@@ -107,7 +107,8 @@
   "61db16ff59ce9d75",
   "e759c5a4447bf452",
   "2e6be069d804c787",
-  "84d02903e23842dc"
+  "84d02903e23842dc",
+  "aa63f79deb9f119f"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -159,8 +160,9 @@
   "p:bellevue, washington, united states": "Белвью, Вашингтон, США",
   "p:munich, bavaria, germany": "Мюнхен, Бавария, Германия",
   "p:orlando, florida, united states": "Орландо, Флорида, США",
-  "p:calgary, alberta, canada": "Калгари, Альберта, Канада"
+  "p:calgary, alberta, canada": "Калгари, Альберта, Канада",
+  "t:animation supervisor": "Супервайзер анимации"
  },
- "last_post": 1788522329.0996,
+ "last_post": 1788522935.9562724,
  "seeded": true
 }
