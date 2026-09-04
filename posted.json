@@ -83,7 +83,8 @@
   "8e9206f3cf203031",
   "9cc37304ab7e0e94",
   "08b68f24d71a29f8",
-  "9a4cc693ac02c4fb"
+  "9a4cc693ac02c4fb",
+  "ce4025d533631464"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -123,8 +124,9 @@
   "p:spain": "Испания",
   "p:australia": "Австралия",
   "p:auckland, new zealand": "Окленд, Новая Зеландия",
-  "p:san mateo, california, united states": "Сан-Матео, Калифорния, США"
+  "p:san mateo, california, united states": "Сан-Матео, Калифорния, США",
+  "p:manchester, united kingdom, england": "Манчестер, Англия, Великобритания"
  },
- "last_post": 1788507395.1734462,
+ "last_post": 1788508031.6799357,
  "seeded": true
 }
