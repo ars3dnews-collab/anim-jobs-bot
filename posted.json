@@ -114,7 +114,8 @@
   "9ad68bef3c8fcc18",
   "efa3298d309537b8",
   "29fcaba8e31ba77a",
-  "b1e2982a5478618c"
+  "b1e2982a5478618c",
+  "d160b9ae71173e5c"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -170,8 +171,9 @@
   "t:animation supervisor": "Супервайзер анимации",
   "p:tokyo, japan": "Токио, Япония",
   "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия",
-  "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания"
+  "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания",
+  "p:playa vista, california, united states": "Плайя-Виста, Калифорния, США"
  },
- "last_post": 1788623363.6092718,
+ "last_post": 1788623487.4483259,
  "seeded": true
 }
