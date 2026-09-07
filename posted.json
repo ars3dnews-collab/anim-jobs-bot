@@ -116,7 +116,8 @@
   "29fcaba8e31ba77a",
   "b1e2982a5478618c",
   "d160b9ae71173e5c",
-  "f2c2730d2386c313"
+  "f2c2730d2386c313",
+  "d80ac0f82acd7ba0"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -174,8 +175,9 @@
   "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия",
   "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания",
   "p:playa vista, california, united states": "Плайя-Виста, Калифорния, США",
-  "p:copenhaagen, denmark": "Копенгаген, Дания"
+  "p:copenhaagen, denmark": "Копенгаген, Дания",
+  "p:leeds, united kingdom, england": "Лидс, Англия, Великобритания"
  },
- "last_post": 1788790699.542136,
+ "last_post": 1788794314.3531237,
  "seeded": true
 }
