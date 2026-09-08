@@ -120,7 +120,8 @@
   "d80ac0f82acd7ba0",
   "eb071d982134bac1",
   "dae20f8d76e3e373",
-  "dae20f8d76e3e373"
+  "dae20f8d76e3e373",
+  "a8371c0ec61d8dad"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -180,8 +181,9 @@
   "p:playa vista, california, united states": "Плайя-Виста, Калифорния, США",
   "p:copenhaagen, denmark": "Копенгаген, Дания",
   "p:leeds, united kingdom, england": "Лидс, Англия, Великобритания",
-  "p:malmö, sweden": "Мальмё, Швеция"
+  "p:malmö, sweden": "Мальмё, Швеция",
+  "t:gameplay animator (contract)": "Геймплейный аниматор"
  },
- "last_post": 1788794698.1194632,
+ "last_post": 1788872758.8971589,
  "seeded": true
 }
