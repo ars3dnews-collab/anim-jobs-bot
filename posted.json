@@ -123,7 +123,8 @@
   "dae20f8d76e3e373",
   "a8371c0ec61d8dad",
   "4712e0bd04fbcff3",
-  "e248e43d82212c56"
+  "e248e43d82212c56",
+  "2dc682ea0bbdb18f"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -185,8 +186,9 @@
   "p:leeds, united kingdom, england": "Лидс, Англия, Великобритания",
   "p:malmö, sweden": "Мальмё, Швеция",
   "t:gameplay animator (contract)": "Геймплейный аниматор",
-  "p:cape town, south africa": "Кейптаун, ЮАР"
+  "p:cape town, south africa": "Кейптаун, ЮАР",
+  "p:st. louis, missouri, united states": "Сент-Луис, Миссури, США"
  },
- "last_post": 1788885079.8294804,
+ "last_post": 1788906739.4770508,
  "seeded": true
 }
