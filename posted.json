@@ -129,7 +129,8 @@
   "4329aa822bef5d92",
   "bafbcc3633a06562",
   "bafbcc3633a06562",
-  "e14a112bed0d2a38"
+  "e14a112bed0d2a38",
+  "337b7344f3473559"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -194,8 +195,9 @@
   "p:cape town, south africa": "Кейптаун, ЮАР",
   "p:st. louis, missouri, united states": "Сент-Луис, Миссури, США",
   "p:montreal, quebec, canada": "Монреаль, Квебек, Канада",
-  "p:helsinki, finland": "Хельсинки, Финляндия"
+  "p:helsinki, finland": "Хельсинки, Финляндия",
+  "p:sausalito, california, united states": "Сосалито, Калифорния, США"
  },
- "last_post": 1788965659.9120255,
+ "last_post": 1788965842.3597777,
  "seeded": true
 }
