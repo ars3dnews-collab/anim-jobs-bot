@@ -130,7 +130,8 @@
   "bafbcc3633a06562",
   "bafbcc3633a06562",
   "e14a112bed0d2a38",
-  "337b7344f3473559"
+  "337b7344f3473559",
+  "0d28bd86e12608ee"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -138,7 +139,7 @@
   "p:santa cruz de tenerife, spain": "Санта-Крус-де-Тенерифе, Испания",
   "p:london, united kingdom, england": "Лондон, Великобритания",
   "p:lima, peru": "Лима, Перу",
-  "t:cinematic animator, 3d": "3D-аниматор синематиков",
+  "t:cinematic animator, 3d": "Синематик-аниматор",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
   "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
@@ -196,8 +197,9 @@
   "p:st. louis, missouri, united states": "Сент-Луис, Миссури, США",
   "p:montreal, quebec, canada": "Монреаль, Квебек, Канада",
   "p:helsinki, finland": "Хельсинки, Финляндия",
-  "p:sausalito, california, united states": "Сосалито, Калифорния, США"
+  "p:sausalito, california, united states": "Сосалито, Калифорния, США",
+  "p:boston, massachusetts, united states": "Бостон, Массачусетс, США"
  },
- "last_post": 1788965842.3597777,
+ "last_post": 1789057046.4775033,
  "seeded": true
 }
