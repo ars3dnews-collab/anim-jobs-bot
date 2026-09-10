@@ -134,7 +134,8 @@
   "0d28bd86e12608ee",
   "3ae49d0f33d36ca8",
   "2f8b4a2e6c2c8baf",
-  "b81de73b36ccd5c3"
+  "b81de73b36ccd5c3",
+  "5d7a632d63d0845e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -204,6 +205,6 @@
   "p:boston, massachusetts, united states": "Бостон, Массачусетс, США",
   "p:buenos aires, argentina": "Буэнос-Айрес, Аргентина"
  },
- "last_post": 1789057557.6103108,
+ "last_post": 1789057678.1045032,
  "seeded": true
 }
