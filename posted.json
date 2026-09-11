@@ -138,7 +138,8 @@
   "5d7a632d63d0845e",
   "deda677a1a649cd7",
   "47af09f79f55a59b",
-  "47af09f79f55a59b"
+  "47af09f79f55a59b",
+  "4e563b2d5182b6f3"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -206,8 +207,9 @@
   "p:helsinki, finland": "Хельсинки, Финляндия",
   "p:sausalito, california, united states": "Сосалито, Калифорния, США",
   "p:boston, massachusetts, united states": "Бостон, Массачусетс, США",
-  "p:buenos aires, argentina": "Буэнос-Айрес, Аргентина"
+  "p:buenos aires, argentina": "Буэнос-Айрес, Аргентина",
+  "p:irvine, california, united states": "Ирвайн, Калифорния, США"
  },
- "last_post": 1789136395.5958226,
+ "last_post": 1789140086.8352232,
  "seeded": true
 }
