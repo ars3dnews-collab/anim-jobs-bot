@@ -152,7 +152,8 @@
   "caff3f5178fbd248",
   "787507a23341754e",
   "315cf383bae4d26c",
-  "2c8f13769a2ef18b"
+  "2c8f13769a2ef18b",
+  "e4eeb26da6c31326"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -226,8 +227,9 @@
   "t:cinematic animator": "Синематик-аниматор",
   "p:montréal, quebec, canada": "Монреаль, Квебек, Канада",
   "p:cambridge, united kingdom, england": "Кембридж, Англия, Великобритания",
-  "p:petaling jaya, malaysia": "Петалинг-Джая, Малайзия"
+  "p:petaling jaya, malaysia": "Петалинг-Джая, Малайзия",
+  "p:cork, ireland": "Корк, Ирландия"
  },
- "last_post": 1789484327.7900822,
+ "last_post": 1789487933.7490017,
  "seeded": true
 }
