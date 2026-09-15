@@ -147,7 +147,8 @@
   "00cc3499e0230542",
   "87ede11adba9d7eb",
   "7747fae079f89731",
-  "d91266cefea520cc"
+  "d91266cefea520cc",
+  "0c0328a0619e2a7b"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -218,8 +219,9 @@
   "p:buenos aires, argentina": "Буэнос-Айрес, Аргентина",
   "p:irvine, california, united states": "Ирвайн, Калифорния, США",
   "p:wrocław, poland": "Вроцлав, Польша",
-  "t:cinematic animator": "Синематик-аниматор"
+  "t:cinematic animator": "Синематик-аниматор",
+  "p:montréal, quebec, canada": "Монреаль, Квебек, Канада"
  },
- "last_post": 1789480841.2160335,
+ "last_post": 1789480965.5107205,
  "seeded": true
 }
