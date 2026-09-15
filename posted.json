@@ -154,7 +154,8 @@
   "315cf383bae4d26c",
   "2c8f13769a2ef18b",
   "e4eeb26da6c31326",
-  "186e93226fb079b2"
+  "186e93226fb079b2",
+  "db8027092f779103"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -229,8 +230,9 @@
   "p:montréal, quebec, canada": "Монреаль, Квебек, Канада",
   "p:cambridge, united kingdom, england": "Кембридж, Англия, Великобритания",
   "p:petaling jaya, malaysia": "Петалинг-Джая, Малайзия",
-  "p:cork, ireland": "Корк, Ирландия"
+  "p:cork, ireland": "Корк, Ирландия",
+  "p:limassol, cyprus": "Лимасол, Кипр"
  },
- "last_post": 1789488067.9618542,
+ "last_post": 1789488239.7261405,
  "seeded": true
 }
