@@ -149,7 +149,8 @@
   "7747fae079f89731",
   "d91266cefea520cc",
   "0c0328a0619e2a7b",
-  "caff3f5178fbd248"
+  "caff3f5178fbd248",
+  "787507a23341754e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -221,8 +222,9 @@
   "p:irvine, california, united states": "Ирвайн, Калифорния, США",
   "p:wrocław, poland": "Вроцлав, Польша",
   "t:cinematic animator": "Синематик-аниматор",
-  "p:montréal, quebec, canada": "Монреаль, Квебек, Канада"
+  "p:montréal, quebec, canada": "Монреаль, Квебек, Канада",
+  "p:cambridge, united kingdom, england": "Кембридж, Англия, Великобритания"
  },
- "last_post": 1789481177.9292111,
+ "last_post": 1789484039.2663484,
  "seeded": true
 }
