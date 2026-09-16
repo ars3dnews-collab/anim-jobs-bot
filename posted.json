@@ -158,7 +158,8 @@
   "db8027092f779103",
   "2364d593011b7cab",
   "639c38d3f1ccdc35",
-  "08378962b9377cd3"
+  "08378962b9377cd3",
+  "35f25bcca17907dd"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -237,8 +238,9 @@
   "p:limassol, cyprus": "Лимасол, Кипр",
   "p:novi sad, serbia": "Нови-Сад, Сербия",
   "t:cinematic animator - ea sports fc": "Синематик-аниматор",
-  "p:united states": "США"
+  "p:united states": "США",
+  "p:austin, texas, united states": "Остин, Техас, США"
  },
- "last_post": 1789565333.4265504,
+ "last_post": 1789568963.367491,
  "seeded": true
 }
