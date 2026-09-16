@@ -157,7 +157,8 @@
   "186e93226fb079b2",
   "db8027092f779103",
   "2364d593011b7cab",
-  "639c38d3f1ccdc35"
+  "639c38d3f1ccdc35",
+  "08378962b9377cd3"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -235,8 +236,9 @@
   "p:cork, ireland": "Корк, Ирландия",
   "p:limassol, cyprus": "Лимасол, Кипр",
   "p:novi sad, serbia": "Нови-Сад, Сербия",
-  "t:cinematic animator - ea sports fc": "Синематик-аниматор"
+  "t:cinematic animator - ea sports fc": "Синематик-аниматор",
+  "p:united states": "США"
  },
- "last_post": 1789565125.0062425,
+ "last_post": 1789565333.4265504,
  "seeded": true
 }
