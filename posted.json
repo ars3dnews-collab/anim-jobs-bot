@@ -165,7 +165,8 @@
   "44e4b7de24cb6451",
   "17528345be2062d6",
   "a08c9d915743b383",
-  "de3f0c8581847ea7"
+  "de3f0c8581847ea7",
+  "f688b41122028393"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -246,8 +247,9 @@
   "t:cinematic animator - ea sports fc": "Синематик-аниматор",
   "p:united states": "США",
   "p:austin, texas, united states": "Остин, Техас, США",
-  "p:woodland hills, california, united states": "Вудленд-Хиллз, Калифорния, США"
+  "p:woodland hills, california, united states": "Вудленд-Хиллз, Калифорния, США",
+  "p:jakarta, indonesia": "Джакарта, Индонезия"
  },
- "last_post": 1789569767.7223685,
+ "last_post": 1789569950.670605,
  "seeded": true
 }
