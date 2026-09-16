@@ -156,7 +156,8 @@
   "e4eeb26da6c31326",
   "186e93226fb079b2",
   "db8027092f779103",
-  "2364d593011b7cab"
+  "2364d593011b7cab",
+  "639c38d3f1ccdc35"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -233,8 +234,9 @@
   "p:petaling jaya, malaysia": "Петалинг-Джая, Малайзия",
   "p:cork, ireland": "Корк, Ирландия",
   "p:limassol, cyprus": "Лимасол, Кипр",
-  "p:novi sad, serbia": "Нови-Сад, Сербия"
+  "p:novi sad, serbia": "Нови-Сад, Сербия",
+  "t:cinematic animator - ea sports fc": "Синематик-аниматор"
  },
- "last_post": 1789517119.879335,
+ "last_post": 1789565125.0062425,
  "seeded": true
 }
