@@ -155,7 +155,8 @@
   "2c8f13769a2ef18b",
   "e4eeb26da6c31326",
   "186e93226fb079b2",
-  "db8027092f779103"
+  "db8027092f779103",
+  "2364d593011b7cab"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -231,8 +232,9 @@
   "p:cambridge, united kingdom, england": "Кембридж, Англия, Великобритания",
   "p:petaling jaya, malaysia": "Петалинг-Джая, Малайзия",
   "p:cork, ireland": "Корк, Ирландия",
-  "p:limassol, cyprus": "Лимасол, Кипр"
+  "p:limassol, cyprus": "Лимасол, Кипр",
+  "p:novi sad, serbia": "Нови-Сад, Сербия"
  },
- "last_post": 1789488239.7261405,
+ "last_post": 1789517119.879335,
  "seeded": true
 }
