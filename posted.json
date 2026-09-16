@@ -170,7 +170,8 @@
   "0ae2e97a916e6a24",
   "0ae2e97a916e6a24",
   "0ae2e97a916e6a24",
-  "0ae2e97a916e6a24"
+  "0ae2e97a916e6a24",
+  "be537d30942de41e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -254,8 +255,9 @@
   "p:woodland hills, california, united states": "Вудленд-Хиллз, Калифорния, США",
   "p:jakarta, indonesia": "Джакарта, Индонезия",
   "p:bothell, washington, united states": "Ботелл, Вашингтон, США",
-  "p:mountain view, california, united states": "Маунтин-Вью, Калифорния, США"
+  "p:mountain view, california, united states": "Маунтин-Вью, Калифорния, США",
+  "p:new delhi, india": "Нью-Дели, Индия"
  },
- "last_post": 1789570519.1880243,
+ "last_post": 1789574143.973619,
  "seeded": true
 }
