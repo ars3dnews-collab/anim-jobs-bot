@@ -169,6 +169,7 @@
   "f688b41122028393",
   "0ae2e97a916e6a24",
   "0ae2e97a916e6a24",
+  "0ae2e97a916e6a24",
   "0ae2e97a916e6a24"
  ],
  "glossary": {
@@ -252,8 +253,9 @@
   "p:austin, texas, united states": "Остин, Техас, США",
   "p:woodland hills, california, united states": "Вудленд-Хиллз, Калифорния, США",
   "p:jakarta, indonesia": "Джакарта, Индонезия",
-  "p:bothell, washington, united states": "Ботелл, Вашингтон, США"
+  "p:bothell, washington, united states": "Ботелл, Вашингтон, США",
+  "p:mountain view, california, united states": "Маунтин-Вью, Калифорния, США"
  },
- "last_post": 1789570322.8744075,
+ "last_post": 1789570519.1880243,
  "seeded": true
 }
