@@ -153,14 +153,39 @@ def wanted(title):
     return any(w in low for w in config.WANT)
 
 
+def download_sheet():
+    """Скачать CSV листа, переживая отказы Google.
+
+    Google иногда отвечает 429 («слишком часто») или 5xx — это временно и
+    проходит через несколько секунд. Раньше первый же такой ответ ронял
+    весь запуск, и канал молчал до следующего срабатывания расписания.
+    """
+    url = SHEET_CSV.format(sid=config.SHEET_ID, gid=config.SHEET_GID)
+    tries = int(getattr(config, "SHEET_TRIES", 5))
+    last = None
+    for attempt in range(1, tries + 1):
+        try:
+            r = requests.get(url, headers={"User-Agent": UA}, timeout=90)
+            if r.ok:
+                r.encoding = "utf-8"
+                if attempt > 1:
+                    log("  таблица прочиталась с {}-й попытки".format(attempt))
+                return r.text
+            last = "HTTP {}".format(r.status_code)
+            if r.status_code not in (429, 500, 502, 503, 504):
+                raise RuntimeError("таблица: " + last)
+        except requests.RequestException as e:
+            last = str(e)[:120]
+        if attempt < tries:
+            pause = min(60, 5 * 2 ** (attempt - 1))
+            log("  таблица не далась ({}), жду {} с".format(last, pause))
+            time.sleep(pause)
+    raise RuntimeError("таблица недоступна: {}".format(last))
+
+
 def fetch_sheet():
     """Скачать лист и вернуть отобранные вакансии, свежие сначала."""
-    url = SHEET_CSV.format(sid=config.SHEET_ID, gid=config.SHEET_GID)
-    r = requests.get(url, headers={"User-Agent": UA}, timeout=90)
-    r.raise_for_status()
-    r.encoding = "utf-8"
-
-    rows = list(csv.reader(io.StringIO(r.text)))
+    rows = list(csv.reader(io.StringIO(download_sheet())))
     log("  в таблице строк: {}".format(len(rows)))
 
     col = config.COLUMNS
@@ -560,18 +585,30 @@ def main():
         len(state["posted"])))
 
     log("Читаю таблицу...")
-    jobs = fetch_sheet()
+    # Если таблица не далась даже после всех попыток — это не повод убивать
+    # запуск: он уходит в ожидание и попробует снова через RECHECK_MINUTES.
+    try:
+        jobs = fetch_sheet()
+    except Exception as e:
+        log("! таблица не прочиталась: {}".format(str(e)[:150]))
+        log("  запуск остаётся жить и попробует снова позже")
+        jobs = None
 
-    # Холостой прогон не должен ничего помечать виденным: иначе вакансии
-    # окажутся «уже опубликованными» ещё до того, как появился канал.
-    if not state.get("seeded") and not dry:
-        seed(state, jobs)
+    if jobs is None:
+        if dry:
+            return
+        fresh = []
+    else:
+        # Холостой прогон не должен ничего помечать виденным: иначе вакансии
+        # окажутся «уже опубликованными» ещё до того, как появился канал.
+        if not state.get("seeded") and not dry:
+            seed(state, jobs)
 
-    known = set(state["posted"])
-    fresh = [j for j in jobs if job_id(j) not in known]
-    # самые новые публикуем первыми
-    fresh.sort(key=lambda j: j["age"])
-    log("Новых к публикации: {}".format(len(fresh)))
+        known = set(state["posted"])
+        fresh = [j for j in jobs if job_id(j) not in known]
+        # самые новые публикуем первыми
+        fresh.sort(key=lambda j: j["age"])
+        log("Новых к публикации: {}".format(len(fresh)))
 
     if dry:
         for j in fresh[:15]:

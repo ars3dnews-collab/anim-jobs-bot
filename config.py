@@ -57,6 +57,7 @@ POST_EVERY_MINUTES = 2       # пауза между постами: свеже�
 MAX_POSTS_PER_RUN = 40       # предохранитель от лавины
 LOOP_MINUTES = 345           # сколько живёт один запуск (см. timeout в workflow)
 RECHECK_MINUTES = 60         # перечитывать таблицу раз в час
+SHEET_TRIES = 5              # попыток чтения таблицы, если Google отказал
 UTC_OFFSET_HOURS = 5         # часовой пояс владельца канала
 ACTIVE_HOURS = (0, 24)       # круглосуточно, тихих часов нет
 
