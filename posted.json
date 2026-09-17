@@ -172,7 +172,8 @@
   "0ae2e97a916e6a24",
   "0ae2e97a916e6a24",
   "be537d30942de41e",
-  "91bd43b79de529ca"
+  "91bd43b79de529ca",
+  "0fb635152adbda4a"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -257,8 +258,9 @@
   "p:jakarta, indonesia": "Джакарта, Индонезия",
   "p:bothell, washington, united states": "Ботелл, Вашингтон, США",
   "p:mountain view, california, united states": "Маунтин-Вью, Калифорния, США",
-  "p:new delhi, india": "Нью-Дели, Индия"
+  "p:new delhi, india": "Нью-Дели, Индия",
+  "p:osaka, japan": "Осака, Япония"
  },
- "last_post": 1789606999.0190005,
+ "last_post": 1789648335.8596768,
  "seeded": true
 }
