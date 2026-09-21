@@ -183,7 +183,8 @@
   "e4908f1082f80210",
   "d7d406107a15640b",
   "c62079d0065bc95f",
-  "7b772e0f43aa86f0"
+  "7b772e0f43aa86f0",
+  "0739029789062c69"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -236,7 +237,7 @@
   "p:munich, bavaria, germany": "Мюнхен, Бавария, Германия",
   "p:orlando, florida, united states": "Орландо, Флорида, США",
   "p:calgary, alberta, canada": "Калгари, Альберта, Канада",
-  "t:animation supervisor": "супервайзер анимации",
+  "t:animation supervisor": "Супервайзер анимации",
   "p:tokyo, japan": "Токио, Япония",
   "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия",
   "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания",
@@ -270,8 +271,9 @@
   "p:mountain view, california, united states": "Маунтин-Вью, Калифорния, США",
   "p:new delhi, india": "Нью-Дели, Индия",
   "p:osaka, japan": "Осака, Япония",
-  "p:quebec city, québec, canada": "Квебек, Квебек, Канада"
+  "p:quebec city, québec, canada": "Квебек, Квебек, Канада",
+  "p:bangalore, india": "Бангалор, Индия"
  },
- "last_post": 1789999093.7536817,
+ "last_post": 1790002700.2568324,
  "seeded": true
 }
