@@ -185,7 +185,8 @@
   "c62079d0065bc95f",
   "7b772e0f43aa86f0",
   "0739029789062c69",
-  "240e6224288be9ed"
+  "240e6224288be9ed",
+  "15300311515877ab"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -273,8 +274,9 @@
   "p:new delhi, india": "Нью-Дели, Индия",
   "p:osaka, japan": "Осака, Япония",
   "p:quebec city, québec, canada": "Квебек, Квебек, Канада",
-  "p:bangalore, india": "Бангалор, Индия"
+  "p:bangalore, india": "Бангалор, Индия",
+  "p:stirling, scotland": "Стерлинг, Шотландия"
  },
- "last_post": 1790002885.094946,
+ "last_post": 1790084962.7659001,
  "seeded": true
 }
