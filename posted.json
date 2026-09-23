@@ -200,6 +200,7 @@
   "fd4eaa576b56a981",
   "fd4eaa576b56a981",
   "fd4eaa576b56a981",
+  "fd4eaa576b56a981",
   "fd4eaa576b56a981"
  ],
  "glossary": {
@@ -295,8 +296,9 @@
   "p:canada": "Canada",
   "p:guangzhou, china": "Гуанчжоу, Китай",
   "p:hangzhou, china": "Hangzhou, China",
-  "p:shanghai, china": "Shanghai, China"
+  "p:shanghai, china": "Shanghai, China",
+  "p:france": "France"
  },
- "last_post": 1790181508.1652145,
+ "last_post": 1790181649.3000631,
  "seeded": true
 }
