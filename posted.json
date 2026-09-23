@@ -199,6 +199,7 @@
   "66d9dacfe6319920",
   "fd4eaa576b56a981",
   "fd4eaa576b56a981",
+  "fd4eaa576b56a981",
   "fd4eaa576b56a981"
  ],
  "glossary": {
@@ -293,8 +294,9 @@
   "t:gameplay animator": "Геймплейный аниматор",
   "p:canada": "Canada",
   "p:guangzhou, china": "Гуанчжоу, Китай",
-  "p:hangzhou, china": "Hangzhou, China"
+  "p:hangzhou, china": "Hangzhou, China",
+  "p:shanghai, china": "Shanghai, China"
  },
- "last_post": 1790181345.993852,
+ "last_post": 1790181508.1652145,
  "seeded": true
 }
