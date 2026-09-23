@@ -197,6 +197,7 @@
   "ccea115590da5cdf",
   "ccea115590da5cdf",
   "66d9dacfe6319920",
+  "fd4eaa576b56a981",
   "fd4eaa576b56a981"
  ],
  "glossary": {
@@ -288,9 +289,10 @@
   "p:bangalore, india": "Бангалор, Индия",
   "p:stirling, scotland": "Стерлинг, Шотландия",
   "p:santa monica, california, united states": "Санта-Моника, Калифорния, США",
-  "t:gameplay animator": "Gameplay Animator",
-  "p:canada": "Canada"
+  "t:gameplay animator": "Геймплейный аниматор",
+  "p:canada": "Canada",
+  "p:guangzhou, china": "Гуанчжоу, Китай"
  },
- "last_post": 1790181024.7300498,
+ "last_post": 1790181176.9352074,
  "seeded": true
 }
