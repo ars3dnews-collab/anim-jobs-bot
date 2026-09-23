@@ -195,7 +195,8 @@
   "df14680895caf72d",
   "e6ed7cd97d5c3b26",
   "ccea115590da5cdf",
-  "ccea115590da5cdf"
+  "ccea115590da5cdf",
+  "66d9dacfe6319920"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -284,8 +285,9 @@
   "p:osaka, japan": "Осака, Япония",
   "p:quebec city, québec, canada": "Квебек, Квебек, Канада",
   "p:bangalore, india": "Бангалор, Индия",
-  "p:stirling, scotland": "Стерлинг, Шотландия"
+  "p:stirling, scotland": "Стерлинг, Шотландия",
+  "p:santa monica, california, united states": "Санта-Моника, Калифорния, США"
  },
- "last_post": 1790177264.8004982,
+ "last_post": 1790180894.4263775,
  "seeded": true
 }
