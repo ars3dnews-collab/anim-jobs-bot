@@ -198,6 +198,7 @@
   "ccea115590da5cdf",
   "66d9dacfe6319920",
   "fd4eaa576b56a981",
+  "fd4eaa576b56a981",
   "fd4eaa576b56a981"
  ],
  "glossary": {
@@ -291,8 +292,9 @@
   "p:santa monica, california, united states": "Санта-Моника, Калифорния, США",
   "t:gameplay animator": "Геймплейный аниматор",
   "p:canada": "Canada",
-  "p:guangzhou, china": "Гуанчжоу, Китай"
+  "p:guangzhou, china": "Гуанчжоу, Китай",
+  "p:hangzhou, china": "Hangzhou, China"
  },
- "last_post": 1790181176.9352074,
+ "last_post": 1790181345.993852,
  "seeded": true
 }
