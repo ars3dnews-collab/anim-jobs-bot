@@ -204,7 +204,8 @@
   "fd4eaa576b56a981",
   "c6959b5488494cbe",
   "6b59e0dddffd69e5",
-  "648945d723f914a9"
+  "648945d723f914a9",
+  "cd5b8d727267718e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -230,7 +231,7 @@
   "p:pune, india": "Пуна, Индия",
   "p:montevideo, uruguay": "Монтевидео, Уругвай",
   "p:malang, indonesia": "Маланг, Индонезия",
-  "p:leamington spa, united kingdom, england": "Ройал-Лемингтон-Спа, Англия, Великобритания",
+  "p:leamington spa, united kingdom, england": "Лемингтон-Спа, Великобритания",
   "p:prague, central bohemia, czech republic": "Прага, Среднечешский край, Чехия",
   "p:warsaw, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша",
   "p:san francisco, california, united states": "Сан-Франциско, Калифорния, США",
@@ -302,6 +303,6 @@
   "p:shanghai, china": "Shanghai, China",
   "p:france": "France"
  },
- "last_post": 1790192870.0013192,
+ "last_post": 1790257947.357829,
  "seeded": true
 }
