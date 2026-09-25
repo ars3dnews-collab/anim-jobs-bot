@@ -212,7 +212,8 @@
   "65899a1fc59b520e",
   "36817c22e63194d9",
   "4ec7affbdb9e7280",
-  "82b1075ff9dc10b6"
+  "82b1075ff9dc10b6",
+  "38e4dfd57bfcb9a1"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -222,7 +223,7 @@
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "Синематик-аниматор",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
-  "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
+  "t:gameplay animator, 3d": "3D-аниматор геймплея",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
   "p:stockholm, uppland, sweden": "Стокгольм, Уппсала, Швеция",
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
@@ -314,6 +315,6 @@
   "p:montreal, quebec, canada | vancouver, british columbia, canada | redwood city, california, united states": "Montreal, Quebec, Canada | Vancouver, British Columbia, Canada | Redwood City, California, United States",
   "p:adelaide, south australia, australia": "Аделаида, Южная Австралия, Австралия"
  },
- "last_post": 1790350851.543396,
+ "last_post": 1790350973.9350781,
  "seeded": true
 }
