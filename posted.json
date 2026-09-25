@@ -207,7 +207,8 @@
   "648945d723f914a9",
   "cd5b8d727267718e",
   "118442eeb9a5b86e",
-  "32bd0d1a181c1f03"
+  "32bd0d1a181c1f03",
+  "5d737cbd55865103"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -304,8 +305,9 @@
   "p:hangzhou, china": "Hangzhou, China",
   "p:shanghai, china": "Shanghai, China",
   "p:france": "France",
-  "p:gdańsk, poland": "Gdańsk, Poland"
+  "p:gdańsk, poland": "Gdańsk, Poland",
+  "p:new westminster, british columbia, canada": "Нью-Вестминстер, Британская Колумбия, Канада"
  },
- "last_post": 1790291885.10622,
+ "last_post": 1790343370.813827,
  "seeded": true
 }
