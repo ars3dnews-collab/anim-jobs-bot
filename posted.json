@@ -209,7 +209,8 @@
   "118442eeb9a5b86e",
   "32bd0d1a181c1f03",
   "5d737cbd55865103",
-  "65899a1fc59b520e"
+  "65899a1fc59b520e",
+  "36817c22e63194d9"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -308,8 +309,9 @@
   "p:france": "France",
   "p:gdańsk, poland": "Gdańsk, Poland",
   "p:new westminster, british columbia, canada": "Нью-Вестминстер, Британская Колумбия, Канада",
-  "p:montreal, quebec, canada | vancouver, british columbia, canada | redwood city, california, united states": "Montreal, Quebec, Canada | Vancouver, British Columbia, Canada | Redwood City, California, United States"
+  "p:montreal, quebec, canada | vancouver, british columbia, canada | redwood city, california, united states": "Montreal, Quebec, Canada | Vancouver, British Columbia, Canada | Redwood City, California, United States",
+  "p:adelaide, south australia, australia": "Аделаида, Южная Австралия, Австралия"
  },
- "last_post": 1790346989.7180872,
+ "last_post": 1790347117.2844748,
  "seeded": true
 }
