@@ -144,6 +144,32 @@ def job_id(row):
     return hashlib.sha1(key.encode("utf-8", "ignore")).hexdigest()[:16]
 
 
+def merge_twins(jobs):
+    """Схлопнуть строки, которые описывают одну и ту же вакансию.
+
+    Студии подают одну вакансию сразу на несколько городов, и в таблице
+    это несколько строк с одинаковой ссылкой — различается только место.
+    Ключ у них один, но раньше список к публикации строился разом, и все
+    копии доживали до канала: NetEase так вышел четыре раза подряд.
+
+    Города при этом не теряются: они собираются в одну строку, и пост
+    честно показывает все места, куда идёт набор.
+    """
+    order, groups = [], {}
+    for job in jobs:
+        jid = job_id(job)
+        if jid not in groups:
+            groups[jid] = job
+            order.append(jid)
+            job["places"] = []
+        spot = ", ".join(p for p in (job.get("city"), job.get("state"),
+                                     job.get("country")) if p)
+        places = groups[jid].setdefault("places", [])
+        if spot and spot not in places:
+            places.append(spot)
+    return [groups[j] for j in order]
+
+
 def wanted(title):
     low = (title or "").lower()
     if not low:
@@ -381,6 +407,9 @@ TRANSLATE_PROMPT = """Ты редактор русскоязычного тел�
   "place"  — место одной строкой: город, регион, страна по-русски
              ("Madison, Wisconsin, United States" -> "Мэдисон, Висконсин, США").
              Общепринятые русские названия городов и стран. Если места нет — "".
+             Несколько мест разделены знаком "|" — это одна вакансия сразу
+             на несколько городов: перечисли их через запятую, не повторяя
+             страну ("Гуанчжоу, Ханчжоу, Шанхай (Китай), Франция").
   "notes"  — перевод примечания живым русским языком, 1-3 предложения.
              Ничего не выдумывай, только то, что есть в оригинале.
              Если примечания нет или оно бессодержательное — "".
@@ -400,8 +429,12 @@ def translate(job, state):
     них модель заново — только тратить лимиты и рисковать разнобоем в
     формулировках. Поэтому переводы копятся в posted.json.
     """
-    place_en = ", ".join([p for p in (job["city"], job["state"],
-                                      job["country"]) if p])
+    places = job.get("places") or []
+    if not places:
+        one = ", ".join(p for p in (job.get("city"), job.get("state"),
+                                    job.get("country")) if p)
+        places = [one] if one else []
+    place_en = " | ".join(places[:6])
     gloss = state.setdefault("glossary", {})
 
     title_key = "t:" + job["title"].lower()
@@ -605,7 +638,7 @@ def main():
             seed(state, jobs)
 
         known = set(state["posted"])
-        fresh = [j for j in jobs if job_id(j) not in known]
+        fresh = merge_twins([j for j in jobs if job_id(j) not in known])
         # самые новые публикуем первыми
         fresh.sort(key=lambda j: j["age"])
         log("Новых к публикации: {}".format(len(fresh)))
@@ -653,6 +686,8 @@ def main():
                     nap(left)
                     if quiet_now():
                         break
+            if job_id(job) in set(state["posted"]):
+                continue          # уже вышло этим же запуском
             try:
                 publish(job, state)
             except Exception as e:
@@ -682,7 +717,7 @@ def main():
             log("  ! таблица не прочиталась: {}".format(str(e)[:150]))
             continue
         known = set(state["posted"])
-        fresh = sorted([j for j in jobs if job_id(j) not in known],
+        fresh = sorted(merge_twins([j for j in jobs if job_id(j) not in known]),
                        key=lambda j: j["age"])
         if fresh:
             log("Новых к публикации: {}".format(len(fresh)))
