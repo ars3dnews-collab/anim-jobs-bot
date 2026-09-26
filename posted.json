@@ -214,7 +214,8 @@
   "4ec7affbdb9e7280",
   "82b1075ff9dc10b6",
   "38e4dfd57bfcb9a1",
-  "bb72abb5075c1688"
+  "bb72abb5075c1688",
+  "f2fdd05c52ab32fb"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -314,8 +315,9 @@
   "p:gdańsk, poland": "Gdańsk, Poland",
   "p:new westminster, british columbia, canada": "Нью-Вестминстер, Британская Колумбия, Канада",
   "p:montreal, quebec, canada | vancouver, british columbia, canada | redwood city, california, united states": "Montreal, Quebec, Canada | Vancouver, British Columbia, Canada | Redwood City, California, United States",
-  "p:adelaide, south australia, australia": "Аделаида, Южная Австралия, Австралия"
+  "p:adelaide, south australia, australia": "Аделаида, Южная Австралия, Австралия",
+  "t:technical animator, 3d": "Технический 3D-аниматор"
  },
- "last_post": 1790445871.5541847,
+ "last_post": 1790446009.409664,
  "seeded": true
 }
