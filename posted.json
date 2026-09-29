@@ -226,7 +226,8 @@
   "a14d46745180a70b",
   "65e1dd597411c13c",
   "ef8388c5503f56ee",
-  "b9afd821107dc238"
+  "b9afd821107dc238",
+  "ca28c213ac9d8f65"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -279,7 +280,7 @@
   "p:munich, bavaria, germany": "Мюнхен, Бавария, Германия",
   "p:orlando, florida, united states": "Орландо, Флорида, США",
   "p:calgary, alberta, canada": "Калгари, Альберта, Канада",
-  "t:animation supervisor": "Супервайзер анимации",
+  "t:animation supervisor": "супервайзер анимации",
   "p:tokyo, japan": "Токио, Япония",
   "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия",
   "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания",
@@ -328,8 +329,9 @@
   "p:montreal, quebec, canada | vancouver, british columbia, canada | redwood city, california, united states": "Montreal, Quebec, Canada | Vancouver, British Columbia, Canada | Redwood City, California, United States",
   "p:adelaide, south australia, australia": "Аделаида, Южная Австралия, Австралия",
   "t:technical animator, 3d": "Технический 3D-аниматор",
-  "p:sofia, bulgaria": "София, Болгария"
+  "p:sofia, bulgaria": "София, Болгария",
+  "p:hyderabad, india": "Хайдарабад, Индия"
  },
- "last_post": 1790606573.342561,
+ "last_post": 1790690245.6216362,
  "seeded": true
 }
