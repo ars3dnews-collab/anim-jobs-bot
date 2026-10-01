@@ -236,7 +236,8 @@
   "733ca492893ef01b",
   "7838c2bf24a2e4c1",
   "01619e6ebe8258c9",
-  "cdb202fccb3f459b"
+  "cdb202fccb3f459b",
+  "d7b25fc347a04a84"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -341,8 +342,9 @@
   "p:sofia, bulgaria": "София, Болгария",
   "p:hyderabad, india": "Хайдарабад, Индия",
   "p:cary, north carolina, united states": "Кэри, Северная Каролина, США",
-  "p:los angeles, california, united states | mercer island, washington, united states": "Лос-Анджелес (Калифорния), Мерсер-Айленд (Вашингтон), США"
+  "p:los angeles, california, united states | mercer island, washington, united states": "Лос-Анджелес (Калифорния), Мерсер-Айленд (Вашингтон), США",
+  "p:wellington, new zealand": "Веллингтон, Новая Зеландия"
  },
- "last_post": 1790862802.3778532,
+ "last_post": 1790871401.5131645,
  "seeded": true
 }
