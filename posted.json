@@ -240,7 +240,8 @@
   "d7b25fc347a04a84",
   "dd13f5054d3ae71e",
   "1a2d4796c950e115",
-  "0f10068a341c1d94"
+  "0f10068a341c1d94",
+  "47dbc7aa0d011759"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -349,6 +350,6 @@
   "p:wellington, new zealand": "Веллингтон, Новая Зеландия",
   "t:gameplay animator, 3d (viewmodel)": "3D-аниматор игрового процесса (Viewmodel)"
  },
- "last_post": 1790871808.3068144,
+ "last_post": 1790871929.0268273,
  "seeded": true
 }
