@@ -230,7 +230,8 @@
   "ca28c213ac9d8f65",
   "cb42b068912a0b36",
   "4cf9fc181243879e",
-  "e9a6e80953f267e5"
+  "e9a6e80953f267e5",
+  "d6b89f7d703244e8"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -331,10 +332,11 @@
   "p:new westminster, british columbia, canada": "Нью-Вестминстер, Британская Колумбия, Канада",
   "p:montreal, quebec, canada | vancouver, british columbia, canada | redwood city, california, united states": "Montreal, Quebec, Canada | Vancouver, British Columbia, Canada | Redwood City, California, United States",
   "p:adelaide, south australia, australia": "Аделаида, Южная Австралия, Австралия",
-  "t:technical animator, 3d": "Технический 3D-аниматор",
+  "t:technical animator, 3d": "Технический аниматор",
   "p:sofia, bulgaria": "София, Болгария",
-  "p:hyderabad, india": "Хайдарабад, Индия"
+  "p:hyderabad, india": "Хайдарабад, Индия",
+  "p:cary, north carolina, united states": "Кэри, Северная Каролина, США"
  },
- "last_post": 1790728631.1519272,
+ "last_post": 1790855181.2882514,
  "seeded": true
 }
