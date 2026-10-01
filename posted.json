@@ -231,7 +231,8 @@
   "cb42b068912a0b36",
   "4cf9fc181243879e",
   "e9a6e80953f267e5",
-  "d6b89f7d703244e8"
+  "d6b89f7d703244e8",
+  "0f498ef2ad99be09"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -335,8 +336,9 @@
   "t:technical animator, 3d": "Технический аниматор",
   "p:sofia, bulgaria": "София, Болгария",
   "p:hyderabad, india": "Хайдарабад, Индия",
-  "p:cary, north carolina, united states": "Кэри, Северная Каролина, США"
+  "p:cary, north carolina, united states": "Кэри, Северная Каролина, США",
+  "p:los angeles, california, united states | mercer island, washington, united states": "Лос-Анджелес (Калифорния), Мерсер-Айленд (Вашингтон), США"
  },
- "last_post": 1790855181.2882514,
+ "last_post": 1790855306.1009214,
  "seeded": true
 }
