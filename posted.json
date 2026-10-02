@@ -244,7 +244,8 @@
   "47dbc7aa0d011759",
   "68a025eb8d43e319",
   "69634d657d8e519e",
-  "05e111212f88db4b"
+  "05e111212f88db4b",
+  "285ffdd37e8be361"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -354,6 +355,6 @@
   "t:gameplay animator, 3d (viewmodel)": "3D-аниматор игрового процесса (Viewmodel)",
   "p:warszawa, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша"
  },
- "last_post": 1790955669.7242362,
+ "last_post": 1790955790.3642533,
  "seeded": true
 }
