@@ -241,7 +241,8 @@
   "dd13f5054d3ae71e",
   "1a2d4796c950e115",
   "0f10068a341c1d94",
-  "47dbc7aa0d011759"
+  "47dbc7aa0d011759",
+  "68a025eb8d43e319"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -251,7 +252,7 @@
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "Синематик-аниматор",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
-  "t:gameplay animator, 3d": "3D-аниматор геймплея",
+  "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
   "p:stockholm, uppland, sweden": "Стокгольм, Уппсала, Швеция",
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
@@ -348,8 +349,9 @@
   "p:cary, north carolina, united states": "Кэри, Северная Каролина, США",
   "p:los angeles, california, united states | mercer island, washington, united states": "Лос-Анджелес (Калифорния), Мерсер-Айленд (Вашингтон), США",
   "p:wellington, new zealand": "Веллингтон, Новая Зеландия",
-  "t:gameplay animator, 3d (viewmodel)": "3D-аниматор игрового процесса (Viewmodel)"
+  "t:gameplay animator, 3d (viewmodel)": "3D-аниматор игрового процесса (Viewmodel)",
+  "p:warszawa, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша"
  },
- "last_post": 1790871929.0268273,
+ "last_post": 1790947241.2005837,
  "seeded": true
 }
