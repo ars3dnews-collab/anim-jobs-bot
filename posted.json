@@ -245,7 +245,8 @@
   "68a025eb8d43e319",
   "69634d657d8e519e",
   "05e111212f88db4b",
-  "285ffdd37e8be361"
+  "285ffdd37e8be361",
+  "b15dd0e562fbe25d"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -353,8 +354,9 @@
   "p:los angeles, california, united states | mercer island, washington, united states": "Лос-Анджелес (Калифорния), Мерсер-Айленд (Вашингтон), США",
   "p:wellington, new zealand": "Веллингтон, Новая Зеландия",
   "t:gameplay animator, 3d (viewmodel)": "3D-аниматор игрового процесса (Viewmodel)",
-  "p:warszawa, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша"
+  "p:warszawa, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша",
+  "t:head of animation": "Head of Animation"
  },
- "last_post": 1790955790.3642533,
+ "last_post": 1791200704.996035,
  "seeded": true
 }
