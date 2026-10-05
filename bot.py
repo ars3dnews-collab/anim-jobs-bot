@@ -171,12 +171,17 @@ def merge_twins(jobs):
 
 
 def wanted(title):
+    """Подходит ли должность. Пунктуация и порядок слов не важны."""
     low = (title or "").lower()
     if not low:
         return False
     if any(s in low for s in config.SKIP):
         return False
-    return any(w in low for w in config.WANT)
+    words = set(re.findall(r"[a-z0-9]+", low))
+    for want in config.WANT:
+        if set(want.split()) <= words:
+            return True
+    return False
 
 
 def download_sheet():

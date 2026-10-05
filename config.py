@@ -26,14 +26,22 @@ COLUMNS = {
 
 # --------------------------------------------------------------- отбор
 # Берём вакансию, если в должности есть слово из WANT и нет из SKIP.
+# Должность засчитывается, если ВСЕ слова любой строки есть в названии —
+# в любом порядке и при любой пунктуации. Так одна строка "animator 3d"
+# ловит и "Animator, 3D", и "3D Animator", и "Senior 3D Animator".
+#
+# Перебор по подстроке, который стоял раньше, спотыкался именно об это:
+# таблицу ведут вручную, и половина студий пишет "3D Animator", а не
+# "Animator, 3D". За месяц так потерялось пять настоящих вакансий.
 WANT = (
-    "animator, 3d",
+    "animator 3d",
     "gameplay animator",
     "cinematic animator",
     "technical animator",
     "animation director",
     "animation supervisor",
     "animation td",
+    "head of animation",
 )
 SKIP = (
     "2d",
