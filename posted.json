@@ -246,7 +246,8 @@
   "69634d657d8e519e",
   "05e111212f88db4b",
   "285ffdd37e8be361",
-  "b15dd0e562fbe25d"
+  "b15dd0e562fbe25d",
+  "b33e8838b89b5e8b"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -355,8 +356,10 @@
   "p:wellington, new zealand": "Веллингтон, Новая Зеландия",
   "t:gameplay animator, 3d (viewmodel)": "3D-аниматор игрового процесса (Viewmodel)",
   "p:warszawa, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша",
-  "t:head of animation": "Head of Animation"
+  "t:head of animation": "Head of Animation",
+  "t:3d animator": "3D-аниматор",
+  "p:yerevan, armenia": "Ереван, Армения"
  },
- "last_post": 1791200704.996035,
+ "last_post": 1791200837.9821355,
  "seeded": true
 }
