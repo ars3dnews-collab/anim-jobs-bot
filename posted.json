@@ -247,7 +247,8 @@
   "05e111212f88db4b",
   "285ffdd37e8be361",
   "b15dd0e562fbe25d",
-  "b33e8838b89b5e8b"
+  "b33e8838b89b5e8b",
+  "463ab6817a6976ba"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -358,8 +359,9 @@
   "p:warszawa, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша",
   "t:head of animation": "Head of Animation",
   "t:3d animator": "3D-аниматор",
-  "p:yerevan, armenia": "Ереван, Армения"
+  "p:yerevan, armenia": "Ереван, Армения",
+  "p:kraków, poland | warsaw, mazowieckie, poland": "Краков, Варшава, Польша"
  },
- "last_post": 1791200837.9821355,
+ "last_post": 1791200963.3606765,
  "seeded": true
 }
