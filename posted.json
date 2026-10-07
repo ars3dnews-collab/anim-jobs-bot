@@ -256,7 +256,8 @@
   "6dc84caa8bee7ba3",
   "c5946fb36f595ac1",
   "0fc2ab031104eb06",
-  "91717de5d3ba654b"
+  "91717de5d3ba654b",
+  "88f59f2f099055f6"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -370,8 +371,9 @@
   "p:yerevan, armenia": "Ереван, Армения",
   "p:kraków, poland | warsaw, mazowieckie, poland": "Краков, Варшава, Польша",
   "p:belgrade, serbia": "Белград, Сербия",
-  "p:bucharest, romania": "Бухарест, Румыния"
+  "p:bucharest, romania": "Бухарест, Румыния",
+  "p:hamburg, hamburg, germany | munich, bavaria, germany | stuttgart, baden-württemberg, germany": "Гамбург, Мюнхен, Штутгарт (Германия)"
  },
- "last_post": 1791299128.2776575,
+ "last_post": 1791395108.8793523,
  "seeded": true
 }
