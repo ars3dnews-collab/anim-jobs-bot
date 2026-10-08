@@ -260,7 +260,8 @@
   "88f59f2f099055f6",
   "e8a326281174bb7d",
   "3b250fe7255873c6",
-  "32a17a19b1e255c9"
+  "32a17a19b1e255c9",
+  "0ce6279a5bd4c842"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -313,7 +314,7 @@
   "p:munich, bavaria, germany": "Мюнхен, Бавария, Германия",
   "p:orlando, florida, united states": "Орландо, Флорида, США",
   "p:calgary, alberta, canada": "Калгари, Альберта, Канада",
-  "t:animation supervisor": "супервайзер анимации",
+  "t:animation supervisor": "Супервайзер анимации",
   "p:tokyo, japan": "Токио, Япония",
   "p:sydney, new south wales, australia": "Сидней, Новый Южный Уэльс, Австралия",
   "p:las palmas de gran canaria, spain": "Лас-Пальмас-де-Гран-Канария, Испания",
@@ -376,8 +377,9 @@
   "p:belgrade, serbia": "Белград, Сербия",
   "p:bucharest, romania": "Бухарест, Румыния",
   "p:hamburg, hamburg, germany | munich, bavaria, germany | stuttgart, baden-württemberg, germany": "Гамбург, Мюнхен, Штутгарт (Германия)",
-  "p:barcelona - digital legends - plaça catalunya": "Барселона, Испания"
+  "p:barcelona - digital legends - plaça catalunya": "Барселона, Испания",
+  "p:liege, belgium": "Льеж, Бельгия"
  },
- "last_post": 1791465860.0932286,
+ "last_post": 1791465995.7449331,
  "seeded": true
 }
