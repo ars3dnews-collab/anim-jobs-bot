@@ -271,7 +271,8 @@
   "4af29f191728bbae",
   "24c9ca9a1a640545",
   "d698a3bd75d7b97e",
-  "1c2fe932903a8f34"
+  "1c2fe932903a8f34",
+  "f05a49b7278d4849"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -389,8 +390,9 @@
   "p:hamburg, hamburg, germany | munich, bavaria, germany | stuttgart, baden-württemberg, germany": "Гамбург, Мюнхен, Штутгарт (Германия)",
   "p:barcelona - digital legends - plaça catalunya": "Барселона, Испания",
   "p:liege, belgium": "Льеж, Бельгия",
-  "p:vilnius, lithuania": "Вильнюс, Литва"
+  "p:vilnius, lithuania": "Вильнюс, Литва",
+  "p:paris, île-de-france, france": "Париж, Иль-де-Франс, Франция"
  },
- "last_post": 1791554859.2755928,
+ "last_post": 1791554987.3268042,
  "seeded": true
 }
