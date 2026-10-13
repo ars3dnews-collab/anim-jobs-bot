@@ -279,7 +279,8 @@
   "bcf4625fe2de34a0",
   "ba576773539ba940",
   "60906449b9e43933",
-  "ec0602a39ea3c9d8"
+  "ec0602a39ea3c9d8",
+  "d0f515b2e616dac2"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -306,7 +307,7 @@
   "p:montevideo, uruguay": "Монтевидео, Уругвай",
   "p:malang, indonesia": "Маланг, Индонезия",
   "p:leamington spa, united kingdom, england": "Лемингтон-Спа, Англия, Великобритания",
-  "p:prague, central bohemia, czech republic": "Прага, Среднечешский край, Чехия",
+  "p:prague, central bohemia, czech republic": "Прага, Центральночешский край, Чехия",
   "p:warsaw, mazowieckie, poland": "Варшава, Мазовецкое воеводство, Польша",
   "p:san francisco, california, united states": "Сан-Франциско, Калифорния, США",
   "p:toronto, ontario, canada": "Торонто, Онтарио, Канада",
@@ -401,6 +402,6 @@
   "p:paris, île-de-france, france": "Париж, Иль-де-Франс, Франция",
   "p:liège, belgium": "Льеж, Бельгия"
  },
- "last_post": 1791905325.4170766,
+ "last_post": 1791905510.44497,
  "seeded": true
 }
