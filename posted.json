@@ -275,7 +275,8 @@
   "f05a49b7278d4849",
   "7308aa50dbef6c26",
   "25c7696b4105580d",
-  "98f1650ddced7983"
+  "98f1650ddced7983",
+  "bcf4625fe2de34a0"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -394,8 +395,9 @@
   "p:barcelona - digital legends - plaça catalunya": "Барселона, Испания",
   "p:liege, belgium": "Льеж, Бельгия",
   "p:vilnius, lithuania": "Вильнюс, Литва",
-  "p:paris, île-de-france, france": "Париж, Иль-де-Франс, Франция"
+  "p:paris, île-de-france, france": "Париж, Иль-де-Франс, Франция",
+  "p:liège, belgium": "Льеж, Бельгия"
  },
- "last_post": 1791815780.3714986,
+ "last_post": 1791897854.8246112,
  "seeded": true
 }
