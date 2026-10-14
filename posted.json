@@ -285,7 +285,8 @@
   "a59515ae41ce8758",
   "abf1d89f68cc328b",
   "885c79c5fe8c5968",
-  "cd91824b78e6a578"
+  "cd91824b78e6a578",
+  "51ebc94c6a370c92"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -295,7 +296,7 @@
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "Синематик 3D-аниматор",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
-  "t:gameplay animator, 3d": "3D-геймплейный аниматор",
+  "t:gameplay animator, 3d": "3D-аниматор геймплея",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
   "p:stockholm, uppland, sweden": "Стокгольм, Уппсала, Швеция",
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
@@ -410,6 +411,6 @@
   "t:art/animation director": "Art/Animation Director",
   "p:lakewood, colorado, united states": "Lakewood, Colorado, United States"
  },
- "last_post": 1791990265.6086998,
+ "last_post": 1791990416.268285,
  "seeded": true
 }
