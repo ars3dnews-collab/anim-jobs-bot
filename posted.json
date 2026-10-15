@@ -291,7 +291,8 @@
   "8594608085d8da4c",
   "06ae740241e996cd",
   "7c96a8805aff5331",
-  "08410392b47e4516"
+  "08410392b47e4516",
+  "704550dbb3f597c3"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -386,7 +387,7 @@
   "p:canada": "Канада",
   "p:guangzhou, china": "Гуанчжоу, Китай",
   "p:hangzhou, china": "Hangzhou, China",
-  "p:shanghai, china": "Shanghai, China",
+  "p:shanghai, china": "Шанхай, Китай",
   "p:france": "France",
   "p:gdańsk, poland": "Gdańsk, Poland",
   "p:new westminster, british columbia, canada": "Нью-Вестминстер, Британская Колумбия, Канада",
@@ -417,6 +418,6 @@
   "p:lakewood, colorado, united states": "Lakewood, Colorado, United States",
   "p:brussels, belgium": "Брюссель, Бельгия"
  },
- "last_post": 1792075643.7862287,
+ "last_post": 1792075769.542439,
  "seeded": true
 }
