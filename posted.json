@@ -297,7 +297,8 @@
   "3286e15ffebb000b",
   "164b8937c0232fac",
   "1057a639aa0fa2b0",
-  "8ea87b96ca99edb0"
+  "8ea87b96ca99edb0",
+  "2b47fd626fbae4b3"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -423,8 +424,9 @@
   "p:lakewood, colorado, united states": "Lakewood, Colorado, United States",
   "p:brussels, belgium": "Брюссель, Бельгия",
   "p:new york city, new york, united states": "Нью-Йорк, США",
-  "p:chengdu, china": "Chengdu, China"
+  "p:chengdu, china": "Chengdu, China",
+  "p:vancouver, british columbia, canada | kelowna, british columbia, canada": "Ванкувер, Британская Колумбия, Канада | Келоуна, Британская Колумбия, Канада"
  },
- "last_post": 1792160077.9525802,
+ "last_post": 1792160215.715804,
  "seeded": true
 }
