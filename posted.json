@@ -296,7 +296,8 @@
   "6f7fae9bb11a040a",
   "3286e15ffebb000b",
   "164b8937c0232fac",
-  "1057a639aa0fa2b0"
+  "1057a639aa0fa2b0",
+  "8ea87b96ca99edb0"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -421,8 +422,9 @@
   "t:art/animation director": "Art/Animation Director",
   "p:lakewood, colorado, united states": "Lakewood, Colorado, United States",
   "p:brussels, belgium": "Брюссель, Бельгия",
-  "p:new york city, new york, united states": "Нью-Йорк, США"
+  "p:new york city, new york, united states": "Нью-Йорк, США",
+  "p:chengdu, china": "Chengdu, China"
  },
- "last_post": 1792159954.966389,
+ "last_post": 1792160077.9525802,
  "seeded": true
 }
