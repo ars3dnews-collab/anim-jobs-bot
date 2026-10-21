@@ -316,7 +316,8 @@
   "ccb67ceb6c8661e4",
   "91b4a75232b50f27",
   "1e10f86ea14a347a",
-  "3fc5319107e9b6ce"
+  "3fc5319107e9b6ce",
+  "473fa20873bc438d"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -350,7 +351,7 @@
   "p:cergy, france": "Сержи, Франция",
   "p:los angeles, california, united states": "Лос-Анджелес, Калифорния, США",
   "p:barcelona, catalonia, spain": "Барселона, Каталония, Испания",
-  "p:bromsgrove, united kingdom, england": "Бромсгроув, Англия, Великобритания",
+  "p:bromsgrove, united kingdom, england": "Бромсгров, Англия, Великобритания",
   "t:animation director": "режиссёр анимации",
   "p:colombo, sri lanka": "Коломбо, Шри-Ланка",
   "p:spain": "Испания",
@@ -449,6 +450,6 @@
   "p:singapore, singapore": "Сингапур, Сингапур",
   "p:vancouver, british columbia, canada | los angeles, california, united states | madison, wisconsin, united states": "Ванкувер, Британская Колумбия (Канада), Лос-Анджелес, Калифорния, Мэдисон, Висконсин (США)"
  },
- "last_post": 1792594797.403856,
+ "last_post": 1792594927.9808435,
  "seeded": true
 }
