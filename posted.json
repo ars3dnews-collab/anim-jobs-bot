@@ -331,7 +331,8 @@
   "8fb976b654f55bbd",
   "a428722c1593b65f",
   "ef14810c8e4df56f",
-  "63017f6f76c4d44c"
+  "63017f6f76c4d44c",
+  "457d1624880d5aa2"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -462,8 +463,9 @@
   "p:oslo, norway": "Осло, Норвегия",
   "p:malmö, skåne county, sweden": "Мальмё, Сконе, Швеция",
   "p:singapore, singapore": "Сингапур, Сингапур",
-  "p:vancouver, british columbia, canada | los angeles, california, united states | madison, wisconsin, united states": "Ванкувер, Британская Колумбия (Канада), Лос-Анджелес, Калифорния, Мэдисон, Висконсин (США)"
+  "p:vancouver, british columbia, canada | los angeles, california, united states | madison, wisconsin, united states": "Ванкувер, Британская Колумбия (Канада), Лос-Анджелес, Калифорния, Мэдисон, Висконсин (США)",
+  "p:kyiv, ukraine": "Киев, Украина"
  },
- "last_post": 1792968497.781528,
+ "last_post": 1792968622.4165816,
  "seeded": true
 }
