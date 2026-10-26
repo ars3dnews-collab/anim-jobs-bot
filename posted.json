@@ -336,7 +336,8 @@
   "86baddf18e86061f",
   "f906af432a34c5c2",
   "d19cfc8b01016be1",
-  "22602899d9a2c53a"
+  "22602899d9a2c53a",
+  "dad913d951ed21f6"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -471,8 +472,9 @@
   "p:kyiv, ukraine": "Киев, Украина",
   "p:brooklyn, new york, united states": "Бруклин, Нью-Йорк, США",
   "p:differdange, luxembourg": "Дифферданж, Люксембург",
-  "p:brussels, belgium | paris, île-de-france, france": "Брюссель (Бельгия), Париж (Франция)"
+  "p:brussels, belgium | paris, île-de-france, france": "Брюссель (Бельгия), Париж (Франция)",
+  "t:cg supervisor, animation studio": "CG-супервайзер"
  },
- "last_post": 1793026247.1185126,
+ "last_post": 1793029882.4479156,
  "seeded": true
 }
