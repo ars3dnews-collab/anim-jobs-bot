@@ -334,7 +334,8 @@
   "63017f6f76c4d44c",
   "457d1624880d5aa2",
   "86baddf18e86061f",
-  "f906af432a34c5c2"
+  "f906af432a34c5c2",
+  "d19cfc8b01016be1"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -468,8 +469,9 @@
   "p:vancouver, british columbia, canada | los angeles, california, united states | madison, wisconsin, united states": "Ванкувер, Британская Колумбия (Канада), Лос-Анджелес, Калифорния, Мэдисон, Висконсин (США)",
   "p:kyiv, ukraine": "Киев, Украина",
   "p:brooklyn, new york, united states": "Бруклин, Нью-Йорк, США",
-  "p:differdange, luxembourg": "Дифферданж, Люксембург"
+  "p:differdange, luxembourg": "Дифферданж, Люксембург",
+  "p:brussels, belgium | paris, île-de-france, france": "Брюссель (Бельгия), Париж (Франция)"
  },
- "last_post": 1792968883.334604,
+ "last_post": 1793026059.7514596,
  "seeded": true
 }
