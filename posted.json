@@ -339,7 +339,8 @@
   "22602899d9a2c53a",
   "dad913d951ed21f6",
   "33cce832969de7d7",
-  "d41d78c73a54b6c7"
+  "d41d78c73a54b6c7",
+  "877c29db112ba190"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -351,7 +352,7 @@
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
   "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
-  "p:stockholm, uppland, sweden": "Стокгольм, Уппсала, Швеция",
+  "p:stockholm, uppland, sweden": "Стокгольм, Уппланд, Швеция",
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
   "p:madrid, spain": "Мадрид, Испания",
   "p:istanbul, türkiye": "Стамбул, Турция",
@@ -477,6 +478,6 @@
   "p:brussels, belgium | paris, île-de-france, france": "Брюссель (Бельгия), Париж (Франция)",
   "t:cg supervisor, animation studio": "CG-супервайзер"
  },
- "last_post": 1793107319.457812,
+ "last_post": 1793202968.2981553,
  "seeded": true
 }
