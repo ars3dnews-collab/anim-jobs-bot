@@ -346,7 +346,8 @@
   "1562cd3e57784044",
   "16c3c9e1abec5bbd",
   "9a0f5ad35abf07b9",
-  "f6a2e9e547c15a42"
+  "f6a2e9e547c15a42",
+  "2a7f4ceb4d35e102"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -477,7 +478,7 @@
   "p:oslo, norway": "Осло, Норвегия",
   "p:malmö, skåne county, sweden": "Мальмё, Сконе, Швеция",
   "p:singapore, singapore": "Сингапур, Сингапур",
-  "p:vancouver, british columbia, canada | los angeles, california, united states | madison, wisconsin, united states": "Ванкувер, Британская Колумбия (Канада), Лос-Анджелес, Калифорния, Мэдисон, Висконсин (США)",
+  "p:vancouver, british columbia, canada | los angeles, california, united states | madison, wisconsin, united states": "Ванкувер (Канада), Лос-Анджелес, Мэдисон (США)",
   "p:kyiv, ukraine": "Киев, Украина",
   "p:brooklyn, new york, united states": "Бруклин, Нью-Йорк, США",
   "p:differdange, luxembourg": "Дифферданж, Люксембург",
@@ -485,8 +486,9 @@
   "t:cg supervisor, animation studio": "CG-супервайзер",
   "t:animation director, gameplay": "Директор анимации геймплея",
   "p:montpellier, france": "Монпелье, Франция",
-  "p:milan, italy": "Милан, Италия"
+  "p:milan, italy": "Милан, Италия",
+  "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)"
  },
- "last_post": 1793283167.018885,
+ "last_post": 1793286788.7782762,
  "seeded": true
 }
