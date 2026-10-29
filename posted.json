@@ -347,7 +347,8 @@
   "16c3c9e1abec5bbd",
   "9a0f5ad35abf07b9",
   "f6a2e9e547c15a42",
-  "2a7f4ceb4d35e102"
+  "2a7f4ceb4d35e102",
+  "be4e94f896e5f7e5"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -489,6 +490,6 @@
   "p:milan, italy": "Милан, Италия",
   "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)"
  },
- "last_post": 1793286788.7782762,
+ "last_post": 1793286970.6795607,
  "seeded": true
 }
