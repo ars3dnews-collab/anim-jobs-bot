@@ -343,7 +343,8 @@
   "877c29db112ba190",
   "31da7f833141bb75",
   "c062a16bc44031e8",
-  "1562cd3e57784044"
+  "1562cd3e57784044",
+  "16c3c9e1abec5bbd"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -483,6 +484,6 @@
   "t:animation director, gameplay": "Директор анимации геймплея",
   "p:montpellier, france": "Монпелье, Франция"
  },
- "last_post": 1793203427.6999044,
+ "last_post": 1793282861.8799884,
  "seeded": true
 }
