@@ -351,7 +351,8 @@
   "be4e94f896e5f7e5",
   "0a0a86bbe20dc5a8",
   "75ee24ba12cd2067",
-  "5b0dca8dc3a0d6b8"
+  "5b0dca8dc3a0d6b8",
+  "9bc75a1b31361f7b"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -494,6 +495,6 @@
   "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)",
   "p:ho chi minh city, ho chi minh, vietnam": "Хошимин, Вьетнам"
  },
- "last_post": 1793376105.2881668,
+ "last_post": 1793376299.7460213,
  "seeded": true
 }
