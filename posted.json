@@ -359,7 +359,8 @@
   "9cdc9d2a9cbc2a94",
   "58922601bdea05ac",
   "ac8ada407469d92e",
-  "9bd1c47b9209e477"
+  "9bd1c47b9209e477",
+  "e2248c47739781aa"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -485,7 +486,7 @@
   "p:lakewood, colorado, united states": "Lakewood, Colorado, United States",
   "p:brussels, belgium": "Брюссель, Бельгия",
   "p:new york city, new york, united states": "Нью-Йорк, США",
-  "p:chengdu, china": "Chengdu, China",
+  "p:chengdu, china": "Чэнду, Китай",
   "p:vancouver, british columbia, canada | kelowna, british columbia, canada": "Ванкувер, Британская Колумбия, Канада | Келоуна, Британская Колумбия, Канада",
   "p:oslo, norway": "Осло, Норвегия",
   "p:malmö, skåne county, sweden": "Мальмё, Сконе, Швеция",
@@ -504,6 +505,6 @@
   "p:dubai, uae": "Дубай, ОАЭ",
   "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)"
  },
- "last_post": 1793633878.514278,
+ "last_post": 1793634027.3868554,
  "seeded": true
 }
