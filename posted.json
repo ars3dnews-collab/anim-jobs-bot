@@ -356,7 +356,8 @@
   "fc55226827dc4e81",
   "eaf9f4ac4000cf04",
   "f1f54502973e5356",
-  "9cdc9d2a9cbc2a94"
+  "9cdc9d2a9cbc2a94",
+  "58922601bdea05ac"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -498,8 +499,9 @@
   "p:milan, italy": "Милан, Италия",
   "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)",
   "p:ho chi minh city, ho chi minh, vietnam": "Хошимин, Вьетнам",
-  "p:dubai, uae": "Дубай, ОАЭ"
+  "p:dubai, uae": "Дубай, ОАЭ",
+  "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)"
  },
- "last_post": 1793633502.311513,
+ "last_post": 1793633626.0053315,
  "seeded": true
 }
