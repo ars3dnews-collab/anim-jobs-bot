@@ -360,7 +360,8 @@
   "58922601bdea05ac",
   "ac8ada407469d92e",
   "9bd1c47b9209e477",
-  "e2248c47739781aa"
+  "e2248c47739781aa",
+  "c4366c96a5f46efe"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -497,7 +498,7 @@
   "p:differdange, luxembourg": "Дифферданж, Люксембург",
   "p:brussels, belgium | paris, île-de-france, france": "Брюссель (Бельгия), Париж (Франция)",
   "t:cg supervisor, animation studio": "CG-супервайзер",
-  "t:animation director, gameplay": "Директор анимации геймплея",
+  "t:animation director, gameplay": "Арт-директор по анимации (геймплей)",
   "p:montpellier, france": "Монпелье, Франция",
   "p:milan, italy": "Милан, Италия",
   "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)",
@@ -505,6 +506,6 @@
   "p:dubai, uae": "Дубай, ОАЭ",
   "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)"
  },
- "last_post": 1793634027.3868554,
+ "last_post": 1793634209.418407,
  "seeded": true
 }
