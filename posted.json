@@ -355,7 +355,8 @@
   "9bc75a1b31361f7b",
   "fc55226827dc4e81",
   "eaf9f4ac4000cf04",
-  "f1f54502973e5356"
+  "f1f54502973e5356",
+  "9cdc9d2a9cbc2a94"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -496,8 +497,9 @@
   "p:montpellier, france": "Монпелье, Франция",
   "p:milan, italy": "Милан, Италия",
   "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)",
-  "p:ho chi minh city, ho chi minh, vietnam": "Хошимин, Вьетнам"
+  "p:ho chi minh city, ho chi minh, vietnam": "Хошимин, Вьетнам",
+  "p:dubai, uae": "Дубай, ОАЭ"
  },
- "last_post": 1793590644.5138068,
+ "last_post": 1793633502.311513,
  "seeded": true
 }
