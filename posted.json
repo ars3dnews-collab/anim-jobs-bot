@@ -366,7 +366,8 @@
   "f90aed1afb749572",
   "9c89104e530ffd98",
   "4ec68abeb38e4ae7",
-  "7369fe6a9a9baafe"
+  "7369fe6a9a9baafe",
+  "5c9eb68cd893d80f"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -512,6 +513,6 @@
   "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)",
   "p:ghent, belgium": "Гент, Бельгия"
  },
- "last_post": 1793718343.3373132,
+ "last_post": 1793722019.6212275,
  "seeded": true
 }
