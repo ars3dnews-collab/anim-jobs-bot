@@ -370,7 +370,8 @@
   "5c9eb68cd893d80f",
   "141980ee64aedadd",
   "52ac991eefff3b43",
-  "0cf99fd365267c21"
+  "0cf99fd365267c21",
+  "58c37e05dfe2f36c"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -515,8 +516,9 @@
   "p:dubai, uae": "Дубай, ОАЭ",
   "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)",
   "p:ghent, belgium": "Гент, Бельгия",
-  "p:bielsko-biala, poland": "Бельско-Бяла, Польша"
+  "p:bielsko-biala, poland": "Бельско-Бяла, Польша",
+  "p:mexico city, mexico": "Мехико, Мексика"
  },
- "last_post": 1793722576.9458547,
+ "last_post": 1793722763.7288294,
  "seeded": true
 }
