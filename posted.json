@@ -365,7 +365,8 @@
   "6da4eba3fc1a6ce5",
   "f90aed1afb749572",
   "9c89104e530ffd98",
-  "4ec68abeb38e4ae7"
+  "4ec68abeb38e4ae7",
+  "7369fe6a9a9baafe"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -375,7 +376,7 @@
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "3D-аниматор синематиков",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
-  "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
+  "t:gameplay animator, 3d": "3D-аниматор геймплея",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
   "p:stockholm, uppland, sweden": "Стокгольм, Уппланд, Швеция",
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
@@ -508,8 +509,9 @@
   "t:animator, 3d (viewmodel)": "3D-аниматор (Viewmodel)",
   "p:ho chi minh city, ho chi minh, vietnam": "Хошимин, Вьетнам",
   "p:dubai, uae": "Дубай, ОАЭ",
-  "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)"
+  "t:animator, 3d (motion capture)": "3D-аниматор (Motion Capture)",
+  "p:ghent, belgium": "Гент, Бельгия"
  },
- "last_post": 1793718201.6559541,
+ "last_post": 1793718343.3373132,
  "seeded": true
 }
