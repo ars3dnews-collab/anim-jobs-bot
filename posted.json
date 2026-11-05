@@ -379,7 +379,8 @@
   "0c71ef35b243bdbd",
   "5644cbd5a0b11e3b",
   "1d9cbcd02128c5a6",
-  "d619c53e0364f165"
+  "d619c53e0364f165",
+  "8e2bbb099a9cd6a2"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -528,8 +529,10 @@
   "p:mexico city, mexico": "Мехико, Мексика",
   "p:mons, belgium": "Mons, Belgium",
   "p:seongnam, south korea": "Соннам, Южная Корея",
-  "p:draper, utah, united states": "Дрейпер, Юта, США"
+  "p:draper, utah, united states": "Дрейпер, Юта, США",
+  "t:animator, 3d (mocap)": "3D-аниматор (MoCap)",
+  "p:antwerp, belgium": "Антверпен, Бельгия"
  },
- "last_post": 1793892351.8251119,
+ "last_post": 1793906817.392922,
  "seeded": true
 }
