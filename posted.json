@@ -378,7 +378,8 @@
   "7fc0b3c1ff2f4f2c",
   "0c71ef35b243bdbd",
   "5644cbd5a0b11e3b",
-  "1d9cbcd02128c5a6"
+  "1d9cbcd02128c5a6",
+  "d619c53e0364f165"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -526,8 +527,9 @@
   "p:bielsko-biala, poland": "Бельско-Бяла, Польша",
   "p:mexico city, mexico": "Мехико, Мексика",
   "p:mons, belgium": "Mons, Belgium",
-  "p:seongnam, south korea": "Соннам, Южная Корея"
+  "p:seongnam, south korea": "Соннам, Южная Корея",
+  "p:draper, utah, united states": "Дрейпер, Юта, США"
  },
- "last_post": 1793892226.2050984,
+ "last_post": 1793892351.8251119,
  "seeded": true
 }
