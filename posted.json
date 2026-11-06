@@ -380,7 +380,8 @@
   "5644cbd5a0b11e3b",
   "1d9cbcd02128c5a6",
   "d619c53e0364f165",
-  "8e2bbb099a9cd6a2"
+  "8e2bbb099a9cd6a2",
+  "efb0f41b8fbe0414"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -533,6 +534,6 @@
   "t:animator, 3d (mocap)": "3D-аниматор (MoCap)",
   "p:antwerp, belgium": "Антверпен, Бельгия"
  },
- "last_post": 1793906817.392922,
+ "last_post": 1793976085.7209108,
  "seeded": true
 }
