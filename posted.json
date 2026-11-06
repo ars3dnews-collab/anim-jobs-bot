@@ -381,7 +381,8 @@
   "1d9cbcd02128c5a6",
   "d619c53e0364f165",
   "8e2bbb099a9cd6a2",
-  "efb0f41b8fbe0414"
+  "efb0f41b8fbe0414",
+  "79592e209b21734c"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -532,8 +533,9 @@
   "p:seongnam, south korea": "Соннам, Южная Корея",
   "p:draper, utah, united states": "Дрейпер, Юта, США",
   "t:animator, 3d (mocap)": "3D-аниматор (MoCap)",
-  "p:antwerp, belgium": "Антверпен, Бельгия"
+  "p:antwerp, belgium": "Антверпен, Бельгия",
+  "p:carlsbad, california, united states": "Карлсбад, Калифорния, США"
  },
- "last_post": 1793976085.7209108,
+ "last_post": 1793976223.869411,
  "seeded": true
 }
