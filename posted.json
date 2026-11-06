@@ -383,7 +383,8 @@
   "8e2bbb099a9cd6a2",
   "efb0f41b8fbe0414",
   "79592e209b21734c",
-  "e639db1e1547e70a"
+  "e639db1e1547e70a",
+  "e44c1315018f817f"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -535,8 +536,9 @@
   "p:draper, utah, united states": "Дрейпер, Юта, США",
   "t:animator, 3d (mocap)": "3D-аниматор (MoCap)",
   "p:antwerp, belgium": "Антверпен, Бельгия",
-  "p:carlsbad, california, united states": "Карлсбад, Калифорния, США"
+  "p:carlsbad, california, united states": "Карлсбад, Калифорния, США",
+  "p:pasadena, california, united states": "Пасадина, Калифорния, США"
  },
- "last_post": 1793976400.3425329,
+ "last_post": 1793980050.8655357,
  "seeded": true
 }
