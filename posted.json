@@ -387,7 +387,8 @@
   "e44c1315018f817f",
   "ae12e0b35776f859",
   "f8f6d0313ca82587",
-  "23fdde6bc240f7ad"
+  "23fdde6bc240f7ad",
+  "08e989f4733fd8a7"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -541,8 +542,9 @@
   "p:antwerp, belgium": "Антверпен, Бельгия",
   "p:carlsbad, california, united states": "Карлсбад, Калифорния, США",
   "p:pasadena, california, united states": "Пасадина, Калифорния, США",
-  "p:manila, philippines": "Манила, Филиппины"
+  "p:manila, philippines": "Манила, Филиппины",
+  "p:denpasar, indonesia": "Денпасар, Индонезия"
  },
- "last_post": 1794243714.5980499,
+ "last_post": 1794243896.4865918,
  "seeded": true
 }
