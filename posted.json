@@ -393,7 +393,8 @@
   "f67b432e4833ac95",
   "a8a3fb687ab93dc2",
   "dd267d9070f6c9d3",
-  "106e6d3e54b6bce2"
+  "106e6d3e54b6bce2",
+  "1c0ca8048aa3553b"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -548,8 +549,9 @@
   "p:carlsbad, california, united states": "Карлсбад, Калифорния, США",
   "p:pasadena, california, united states": "Пасадина, Калифорния, США",
   "p:manila, philippines": "Манила, Филиппины",
-  "p:denpasar, indonesia": "Денпасар, Индонезия"
+  "p:denpasar, indonesia": "Денпасар, Индонезия",
+  "t:animation director - kuala lumpur": "Арт-директор анимации"
  },
- "last_post": 1794425668.9758823,
+ "last_post": 1794425850.5992522,
  "seeded": true
 }
