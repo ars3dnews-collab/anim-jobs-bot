@@ -396,7 +396,8 @@
   "106e6d3e54b6bce2",
   "1c0ca8048aa3553b",
   "c9591981adc8f939",
-  "8e372c50e8c757d2"
+  "8e372c50e8c757d2",
+  "cf732db18d4e3b1c"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -552,8 +553,9 @@
   "p:pasadena, california, united states": "Пасадина, Калифорния, США",
   "p:manila, philippines": "Манила, Филиппины",
   "p:denpasar, indonesia": "Денпасар, Индонезия",
-  "t:animation director - kuala lumpur": "Арт-директор анимации"
+  "t:animation director - kuala lumpur": "Арт-директор анимации",
+  "p:offenburg, germany": "Оффенбург, Германия"
  },
- "last_post": 1794429668.9555764,
+ "last_post": 1794490816.8898635,
  "seeded": true
 }
