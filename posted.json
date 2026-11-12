@@ -397,7 +397,8 @@
   "1c0ca8048aa3553b",
   "c9591981adc8f939",
   "8e372c50e8c757d2",
-  "cf732db18d4e3b1c"
+  "cf732db18d4e3b1c",
+  "be51feaca901b49c"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -554,8 +555,9 @@
   "p:manila, philippines": "Манила, Филиппины",
   "p:denpasar, indonesia": "Денпасар, Индонезия",
   "t:animation director - kuala lumpur": "Арт-директор анимации",
-  "p:offenburg, germany": "Оффенбург, Германия"
+  "p:offenburg, germany": "Оффенбург, Германия",
+  "p:brazil": "Бразилия"
  },
- "last_post": 1794490816.8898635,
+ "last_post": 1794491006.9491327,
  "seeded": true
 }
