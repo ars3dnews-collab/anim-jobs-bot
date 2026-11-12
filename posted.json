@@ -400,7 +400,8 @@
   "cf732db18d4e3b1c",
   "be51feaca901b49c",
   "358f4d67b83d65f8",
-  "326715fc0468fe10"
+  "326715fc0468fe10",
+  "aeb8c3c018efb290"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -561,6 +562,6 @@
   "p:brazil": "Бразилия",
   "t:technical animator, cinematics": "Технический аниматор (синематики)"
  },
- "last_post": 1794491253.2505226,
+ "last_post": 1794491373.761769,
  "seeded": true
 }
