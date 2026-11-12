@@ -402,7 +402,8 @@
   "358f4d67b83d65f8",
   "326715fc0468fe10",
   "aeb8c3c018efb290",
-  "4fec279bfeca34f0"
+  "4fec279bfeca34f0",
+  "30bc52127701192e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -561,8 +562,9 @@
   "t:animation director - kuala lumpur": "Арт-директор анимации",
   "p:offenburg, germany": "Оффенбург, Германия",
   "p:brazil": "Бразилия",
-  "t:technical animator, cinematics": "Технический аниматор (синематики)"
+  "t:technical animator, cinematics": "Технический аниматор (синематики)",
+  "t:co-head of character animation": "Соруководитель отдела анимации персонажей"
  },
- "last_post": 1794506773.0028708,
+ "last_post": 1794506954.510232,
  "seeded": true
 }
