@@ -404,7 +404,8 @@
   "aeb8c3c018efb290",
   "4fec279bfeca34f0",
   "30bc52127701192e",
-  "fb3745351b3106fc"
+  "fb3745351b3106fc",
+  "2c9400332dce047d"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -564,8 +565,9 @@
   "p:offenburg, germany": "Оффенбург, Германия",
   "p:brazil": "Бразилия",
   "t:technical animator, cinematics": "Технический аниматор (синематики)",
-  "t:co-head of character animation": "Соруководитель отдела анимации персонажей"
+  "t:co-head of character animation": "Соруководитель отдела анимации персонажей",
+  "p:gurugram, india": "Гуруграм, Индия"
  },
- "last_post": 1794589614.9784281,
+ "last_post": 1794589737.476741,
  "seeded": true
 }
