@@ -410,7 +410,8 @@
   "4fae21afb513056c",
   "70d794a1a48f70fe",
   "befee3e79c07044b",
-  "d430c042bd821ca5"
+  "d430c042bd821ca5",
+  "8d63c92e4ec5622e"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -572,8 +573,9 @@
   "t:technical animator, cinematics": "Технический аниматор (синематики)",
   "t:co-head of character animation": "Соруководитель отдела анимации персонажей",
   "p:gurugram, india": "Гуруграм, Индия",
-  "p:guadalajara, mexico": "Гвадалахара, Мексика"
+  "p:guadalajara, mexico": "Гвадалахара, Мексика",
+  "p:kathmandu, nepal": "Катманду, Непал"
  },
- "last_post": 1794862967.4098122,
+ "last_post": 1794927809.5023816,
  "seeded": true
 }
