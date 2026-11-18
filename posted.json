@@ -415,7 +415,8 @@
   "cf9e3ede44e6e802",
   "d9ac96010668fa6e",
   "93aabbdaf2725639",
-  "166a6a859b84c0d0"
+  "166a6a859b84c0d0",
+  "a21e4c3470d23f2a"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -578,8 +579,9 @@
   "t:co-head of character animation": "Соруководитель отдела анимации персонажей",
   "p:gurugram, india": "Гуруграм, Индия",
   "p:guadalajara, mexico": "Гвадалахара, Мексика",
-  "p:kathmandu, nepal": "Катманду, Непал"
+  "p:kathmandu, nepal": "Катманду, Непал",
+  "p:half moon bay, california, united states": "Хаф-Мун-Бей, Калифорния, США"
  },
- "last_post": 1794931802.7309053,
+ "last_post": 1795013260.592861,
  "seeded": true
 }
