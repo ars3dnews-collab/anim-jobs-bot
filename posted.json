@@ -417,7 +417,8 @@
   "93aabbdaf2725639",
   "166a6a859b84c0d0",
   "a21e4c3470d23f2a",
-  "9a0e47120b1745d1"
+  "9a0e47120b1745d1",
+  "aa18b0b1a62c936a"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -427,7 +428,7 @@
   "p:lima, peru": "Лима, Перу",
   "t:cinematic animator, 3d": "3D-аниматор кинематографических трейлеров",
   "p:burbank, california, united states": "Бербанк, Калифорния, США",
-  "t:gameplay animator, 3d": "Геймплейный 3D-аниматор",
+  "t:gameplay animator, 3d": "3D-аниматор геймплея",
   "p:montreal, québec, canada": "Монреаль, Квебек, Канада",
   "p:stockholm, uppland, sweden": "Стокгольм, Уппланд, Швеция",
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
@@ -582,8 +583,9 @@
   "p:guadalajara, mexico": "Гвадалахара, Мексика",
   "p:kathmandu, nepal": "Катманду, Непал",
   "p:half moon bay, california, united states": "Хаф-Мун-Бей, Калифорния, США",
-  "p:warsaw, mazowieckie, poland | barcelona, catalonia, spain | kharkiv, ukraine | lviv, ukraine": "Варшава (Польша), Барселона (Испания), Харьков, Львов (Украина)"
+  "p:warsaw, mazowieckie, poland | barcelona, catalonia, spain | kharkiv, ukraine | lviv, ukraine": "Варшава (Польша), Барселона (Испания), Харьков, Львов (Украина)",
+  "p:lviv, lviv oblast, ukraine": "Львов, Львовская область, Украина"
  },
- "last_post": 1795016989.1254954,
+ "last_post": 1795017177.0693955,
  "seeded": true
 }
