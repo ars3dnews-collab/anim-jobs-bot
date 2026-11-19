@@ -418,7 +418,8 @@
   "166a6a859b84c0d0",
   "a21e4c3470d23f2a",
   "9a0e47120b1745d1",
-  "aa18b0b1a62c936a"
+  "aa18b0b1a62c936a",
+  "b73e15950c5a01dc"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -434,7 +435,7 @@
   "p:brisbane, queensland, australia": "Брисбен, Квинсленд, Австралия",
   "p:madrid, spain": "Мадрид, Испания",
   "p:istanbul, türkiye": "Стамбул, Турция",
-  "t:technical animator": "Технический аниматор",
+  "t:technical animator": "технический аниматор",
   "p:edmonton, alberta, canada": "Эдмонтон, Альберта, Канада",
   "p:kuala lumpur, malaysia": "Куала-Лумпур, Малайзия",
   "p:burnaby, british columbia, canada": "Бёрнаби, Британская Колумбия, Канада",
@@ -584,8 +585,9 @@
   "p:kathmandu, nepal": "Катманду, Непал",
   "p:half moon bay, california, united states": "Хаф-Мун-Бей, Калифорния, США",
   "p:warsaw, mazowieckie, poland | barcelona, catalonia, spain | kharkiv, ukraine | lviv, ukraine": "Варшава (Польша), Барселона (Испания), Харьков, Львов (Украина)",
-  "p:lviv, lviv oblast, ukraine": "Львов, Львовская область, Украина"
+  "p:lviv, lviv oblast, ukraine": "Львов, Львовская область, Украина",
+  "p:české budějovice, czech republic": "Ческе-Будеёвице, Чехия"
  },
- "last_post": 1795017177.0693955,
+ "last_post": 1795099634.2970293,
  "seeded": true
 }
