@@ -421,7 +421,8 @@
   "aa18b0b1a62c936a",
   "b73e15950c5a01dc",
   "256e49bae9faa14b",
-  "cf9e24c029d9238f"
+  "cf9e24c029d9238f",
+  "0771b25bc12baac9"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -591,6 +592,6 @@
   "p:české budějovice, czech republic": "Ческе-Будеёвице, Чехия",
   "t:gameplay animator, 3d/technical animator": "Геймплейный 3D-аниматор / технический аниматор"
  },
- "last_post": 1795107052.8581357,
+ "last_post": 1795107178.7785623,
  "seeded": true
 }
