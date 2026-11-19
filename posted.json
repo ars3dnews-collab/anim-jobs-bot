@@ -419,7 +419,8 @@
   "a21e4c3470d23f2a",
   "9a0e47120b1745d1",
   "aa18b0b1a62c936a",
-  "b73e15950c5a01dc"
+  "b73e15950c5a01dc",
+  "256e49bae9faa14b"
  ],
  "glossary": {
   "t:animator, 3d": "3D-аниматор",
@@ -586,8 +587,9 @@
   "p:half moon bay, california, united states": "Хаф-Мун-Бей, Калифорния, США",
   "p:warsaw, mazowieckie, poland | barcelona, catalonia, spain | kharkiv, ukraine | lviv, ukraine": "Варшава (Польша), Барселона (Испания), Харьков, Львов (Украина)",
   "p:lviv, lviv oblast, ukraine": "Львов, Львовская область, Украина",
-  "p:české budějovice, czech republic": "Ческе-Будеёвице, Чехия"
+  "p:české budějovice, czech republic": "Ческе-Будеёвице, Чехия",
+  "t:gameplay animator, 3d/technical animator": "Геймплейный 3D-аниматор / технический аниматор"
  },
- "last_post": 1795099634.2970293,
+ "last_post": 1795106866.1585407,
  "seeded": true
 }
